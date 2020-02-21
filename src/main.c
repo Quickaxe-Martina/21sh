@@ -3,29 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: qmartina <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: plettie <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2019/10/22 09:38:59 by qmartina          #+#    #+#             */
-/*   Updated: 2019/11/15 16:17:33 by qmartina         ###   ########.fr       */
+/*   Created: 2020/02/21 22:20:53 by plettie           #+#    #+#             */
+/*   Updated: 2020/02/21 22:20:57 by plettie          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../inc/fshell.h"
-
-int		ft_whatis2(t_exectoken *tmp)
-{
-	if (ft_strcmp(tmp->file_args[0], "cd") == 0)
-		ft_cd(tmp->file_args);
-	else if (ft_strcmp(tmp->file_args[0], "setenv") == 0)
-		ft_do_export(tmp->file_args);
-	else if (ft_strcmp(tmp->file_args[0], "unsetenv") == 0 &&
-			 tmp->file_args[1] != NULL)
-		unset_var(tmp->file_args[1], &g_env);
-	else
-		return (0);
-	return (1);
-
-}
 
 int		ft_whatis(t_exectoken *tmp, t_memory *q)
 {
@@ -49,7 +34,6 @@ int		ft_whatis(t_exectoken *tmp, t_memory *q)
 	else
 		return (0);
 	return (1);
-
 }
 
 void	print_hash(void)
@@ -89,7 +73,6 @@ int		ft_main_what(t_exectoken *tmp, t_memory *q)
 			return (-1);
 		do_zam_str_with_tilda(tmp->file_args);
 		ft_infinit_pipe(tmp, q);
-		//ft_whatis(tmp, q);
 		tmp = tmp->right;
 	}
 	return (1);

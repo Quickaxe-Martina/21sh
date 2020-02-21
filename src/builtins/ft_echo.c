@@ -95,7 +95,7 @@ void	ft_echo(char **str)
 	while (str[++k])
 	{
 		tmp = str[k];
-		str[k] = distribute_echo(str, k, flag, &echo);
+		str[k] = distr_echo(str, k, flag, &echo);
 		!echo.echo_n ? flag = 1 : 0;
 		str[k] = tmp;
 		if (str[k + 1] && (*str[k] != '-' || (*str[k] == '-' && !echo.echo_n)))

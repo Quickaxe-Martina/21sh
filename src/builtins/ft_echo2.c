@@ -55,7 +55,7 @@ char	*ft_flag_echo(char *str, t_builtins *echo)
 	return (str + i);
 }
 
-char	*distribute_echo(char **str, int k, int flag, t_builtins *echo)
+char	*distr_echo(char **str, int k, int flag, t_builtins *echo)
 {
 	while (str[k] && *str[k])
 	{
