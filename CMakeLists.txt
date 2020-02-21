@@ -107,6 +107,8 @@ add_executable(21reload
         src/builtins/allenv/global_env.c
         src/builtins/allenv/main_env.c
         src/builtins/ft_cd.c
+        src/builtins/ft_cd_2.c
+        src/builtins/ft_cd_3.c
         src/builtins/ft_echo.c
         src/builtins/ft_echo2.c
         src/errors/errror_handler.c

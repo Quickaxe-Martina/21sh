@@ -6,5 +6,5 @@ C_FLAGS = -g   -std=gnu11
 
 C_DEFINES = 
 
-C_INCLUDES = -I/Users/qmartina/Desktop/21reload/inc -I/Users/qmartina/Desktop/21reload/libft 
+C_INCLUDES = -I/Users/plettie/Desktop/211/inc -I/Users/plettie/Desktop/211/libft 
 
