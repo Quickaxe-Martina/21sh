@@ -24,7 +24,6 @@ int		ft_what_flag(char *str, int *b)
 	ft_strcmp(str, "<<") == 0 ? flag = 4 : flag;
 	ft_strcmp(str, ">&") == 0 ? flag = 6 : flag;
 	ft_strcmp(str, "&>") == 0 ? flag = 6 : flag;
-	/////////////////
 	ft_strcmp(str, "&>-") == 0 ? flag = 7 : flag;
 	ft_strcmp(str, ">-") == 0 ? flag = 7 : flag;
 	*b = 1;

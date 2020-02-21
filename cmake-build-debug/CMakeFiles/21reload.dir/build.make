@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/plettie/Desktop/211
+CMAKE_SOURCE_DIR = /Users/wstygg/Desktop/21sh
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/plettie/Desktop/211/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/wstygg/Desktop/21sh/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/21reload.dir/depend.make
@@ -59,2135 +59,2135 @@ include CMakeFiles/21reload.dir/flags.make
 
 CMakeFiles/21reload.dir/libft/ft_atoi.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_atoi.c.o: ../libft/ft_atoi.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/21reload.dir/libft/ft_atoi.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_atoi.c.o   -c /Users/plettie/Desktop/211/libft/ft_atoi.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/21reload.dir/libft/ft_atoi.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_atoi.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_atoi.c
 
 CMakeFiles/21reload.dir/libft/ft_atoi.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_atoi.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_atoi.c > CMakeFiles/21reload.dir/libft/ft_atoi.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_atoi.c > CMakeFiles/21reload.dir/libft/ft_atoi.c.i
 
 CMakeFiles/21reload.dir/libft/ft_atoi.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_atoi.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_atoi.c -o CMakeFiles/21reload.dir/libft/ft_atoi.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_atoi.c -o CMakeFiles/21reload.dir/libft/ft_atoi.c.s
 
 CMakeFiles/21reload.dir/libft/ft_bzero.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_bzero.c.o: ../libft/ft_bzero.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/21reload.dir/libft/ft_bzero.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_bzero.c.o   -c /Users/plettie/Desktop/211/libft/ft_bzero.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/21reload.dir/libft/ft_bzero.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_bzero.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_bzero.c
 
 CMakeFiles/21reload.dir/libft/ft_bzero.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_bzero.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_bzero.c > CMakeFiles/21reload.dir/libft/ft_bzero.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_bzero.c > CMakeFiles/21reload.dir/libft/ft_bzero.c.i
 
 CMakeFiles/21reload.dir/libft/ft_bzero.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_bzero.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_bzero.c -o CMakeFiles/21reload.dir/libft/ft_bzero.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_bzero.c -o CMakeFiles/21reload.dir/libft/ft_bzero.c.s
 
 CMakeFiles/21reload.dir/libft/ft_count.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_count.c.o: ../libft/ft_count.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/21reload.dir/libft/ft_count.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_count.c.o   -c /Users/plettie/Desktop/211/libft/ft_count.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/21reload.dir/libft/ft_count.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_count.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_count.c
 
 CMakeFiles/21reload.dir/libft/ft_count.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_count.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_count.c > CMakeFiles/21reload.dir/libft/ft_count.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_count.c > CMakeFiles/21reload.dir/libft/ft_count.c.i
 
 CMakeFiles/21reload.dir/libft/ft_count.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_count.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_count.c -o CMakeFiles/21reload.dir/libft/ft_count.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_count.c -o CMakeFiles/21reload.dir/libft/ft_count.c.s
 
 CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.o: ../libft/ft_count_whtsp_end.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.o   -c /Users/plettie/Desktop/211/libft/ft_count_whtsp_end.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_count_whtsp_end.c
 
 CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_count_whtsp_end.c > CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_count_whtsp_end.c > CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.i
 
 CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_count_whtsp_end.c -o CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_count_whtsp_end.c -o CMakeFiles/21reload.dir/libft/ft_count_whtsp_end.c.s
 
 CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.o: ../libft/ft_count_whtsp_start.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.o   -c /Users/plettie/Desktop/211/libft/ft_count_whtsp_start.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_count_whtsp_start.c
 
 CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_count_whtsp_start.c > CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_count_whtsp_start.c > CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.i
 
 CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_count_whtsp_start.c -o CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_count_whtsp_start.c -o CMakeFiles/21reload.dir/libft/ft_count_whtsp_start.c.s
 
 CMakeFiles/21reload.dir/libft/ft_count_words.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_count_words.c.o: ../libft/ft_count_words.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/21reload.dir/libft/ft_count_words.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_count_words.c.o   -c /Users/plettie/Desktop/211/libft/ft_count_words.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/21reload.dir/libft/ft_count_words.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_count_words.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_count_words.c
 
 CMakeFiles/21reload.dir/libft/ft_count_words.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_count_words.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_count_words.c > CMakeFiles/21reload.dir/libft/ft_count_words.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_count_words.c > CMakeFiles/21reload.dir/libft/ft_count_words.c.i
 
 CMakeFiles/21reload.dir/libft/ft_count_words.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_count_words.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_count_words.c -o CMakeFiles/21reload.dir/libft/ft_count_words.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_count_words.c -o CMakeFiles/21reload.dir/libft/ft_count_words.c.s
 
 CMakeFiles/21reload.dir/libft/ft_exponentiation.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_exponentiation.c.o: ../libft/ft_exponentiation.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/21reload.dir/libft/ft_exponentiation.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_exponentiation.c.o   -c /Users/plettie/Desktop/211/libft/ft_exponentiation.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/21reload.dir/libft/ft_exponentiation.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_exponentiation.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_exponentiation.c
 
 CMakeFiles/21reload.dir/libft/ft_exponentiation.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_exponentiation.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_exponentiation.c > CMakeFiles/21reload.dir/libft/ft_exponentiation.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_exponentiation.c > CMakeFiles/21reload.dir/libft/ft_exponentiation.c.i
 
 CMakeFiles/21reload.dir/libft/ft_exponentiation.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_exponentiation.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_exponentiation.c -o CMakeFiles/21reload.dir/libft/ft_exponentiation.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_exponentiation.c -o CMakeFiles/21reload.dir/libft/ft_exponentiation.c.s
 
 CMakeFiles/21reload.dir/libft/ft_free_str.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_free_str.c.o: ../libft/ft_free_str.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/21reload.dir/libft/ft_free_str.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_free_str.c.o   -c /Users/plettie/Desktop/211/libft/ft_free_str.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/21reload.dir/libft/ft_free_str.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_free_str.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_free_str.c
 
 CMakeFiles/21reload.dir/libft/ft_free_str.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_free_str.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_free_str.c > CMakeFiles/21reload.dir/libft/ft_free_str.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_free_str.c > CMakeFiles/21reload.dir/libft/ft_free_str.c.i
 
 CMakeFiles/21reload.dir/libft/ft_free_str.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_free_str.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_free_str.c -o CMakeFiles/21reload.dir/libft/ft_free_str.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_free_str.c -o CMakeFiles/21reload.dir/libft/ft_free_str.c.s
 
 CMakeFiles/21reload.dir/libft/ft_isalnum.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_isalnum.c.o: ../libft/ft_isalnum.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/21reload.dir/libft/ft_isalnum.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isalnum.c.o   -c /Users/plettie/Desktop/211/libft/ft_isalnum.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/21reload.dir/libft/ft_isalnum.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isalnum.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_isalnum.c
 
 CMakeFiles/21reload.dir/libft/ft_isalnum.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_isalnum.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_isalnum.c > CMakeFiles/21reload.dir/libft/ft_isalnum.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_isalnum.c > CMakeFiles/21reload.dir/libft/ft_isalnum.c.i
 
 CMakeFiles/21reload.dir/libft/ft_isalnum.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_isalnum.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_isalnum.c -o CMakeFiles/21reload.dir/libft/ft_isalnum.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_isalnum.c -o CMakeFiles/21reload.dir/libft/ft_isalnum.c.s
 
 CMakeFiles/21reload.dir/libft/ft_isalpha.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_isalpha.c.o: ../libft/ft_isalpha.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/21reload.dir/libft/ft_isalpha.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isalpha.c.o   -c /Users/plettie/Desktop/211/libft/ft_isalpha.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/21reload.dir/libft/ft_isalpha.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isalpha.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_isalpha.c
 
 CMakeFiles/21reload.dir/libft/ft_isalpha.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_isalpha.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_isalpha.c > CMakeFiles/21reload.dir/libft/ft_isalpha.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_isalpha.c > CMakeFiles/21reload.dir/libft/ft_isalpha.c.i
 
 CMakeFiles/21reload.dir/libft/ft_isalpha.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_isalpha.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_isalpha.c -o CMakeFiles/21reload.dir/libft/ft_isalpha.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_isalpha.c -o CMakeFiles/21reload.dir/libft/ft_isalpha.c.s
 
 CMakeFiles/21reload.dir/libft/ft_isascii.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_isascii.c.o: ../libft/ft_isascii.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/21reload.dir/libft/ft_isascii.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isascii.c.o   -c /Users/plettie/Desktop/211/libft/ft_isascii.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/21reload.dir/libft/ft_isascii.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isascii.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_isascii.c
 
 CMakeFiles/21reload.dir/libft/ft_isascii.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_isascii.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_isascii.c > CMakeFiles/21reload.dir/libft/ft_isascii.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_isascii.c > CMakeFiles/21reload.dir/libft/ft_isascii.c.i
 
 CMakeFiles/21reload.dir/libft/ft_isascii.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_isascii.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_isascii.c -o CMakeFiles/21reload.dir/libft/ft_isascii.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_isascii.c -o CMakeFiles/21reload.dir/libft/ft_isascii.c.s
 
 CMakeFiles/21reload.dir/libft/ft_isdelim.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_isdelim.c.o: ../libft/ft_isdelim.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/21reload.dir/libft/ft_isdelim.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isdelim.c.o   -c /Users/plettie/Desktop/211/libft/ft_isdelim.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/21reload.dir/libft/ft_isdelim.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isdelim.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_isdelim.c
 
 CMakeFiles/21reload.dir/libft/ft_isdelim.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_isdelim.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_isdelim.c > CMakeFiles/21reload.dir/libft/ft_isdelim.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_isdelim.c > CMakeFiles/21reload.dir/libft/ft_isdelim.c.i
 
 CMakeFiles/21reload.dir/libft/ft_isdelim.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_isdelim.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_isdelim.c -o CMakeFiles/21reload.dir/libft/ft_isdelim.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_isdelim.c -o CMakeFiles/21reload.dir/libft/ft_isdelim.c.s
 
 CMakeFiles/21reload.dir/libft/ft_isdigit.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_isdigit.c.o: ../libft/ft_isdigit.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/21reload.dir/libft/ft_isdigit.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isdigit.c.o   -c /Users/plettie/Desktop/211/libft/ft_isdigit.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/21reload.dir/libft/ft_isdigit.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isdigit.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_isdigit.c
 
 CMakeFiles/21reload.dir/libft/ft_isdigit.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_isdigit.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_isdigit.c > CMakeFiles/21reload.dir/libft/ft_isdigit.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_isdigit.c > CMakeFiles/21reload.dir/libft/ft_isdigit.c.i
 
 CMakeFiles/21reload.dir/libft/ft_isdigit.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_isdigit.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_isdigit.c -o CMakeFiles/21reload.dir/libft/ft_isdigit.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_isdigit.c -o CMakeFiles/21reload.dir/libft/ft_isdigit.c.s
 
 CMakeFiles/21reload.dir/libft/ft_islower.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_islower.c.o: ../libft/ft_islower.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/21reload.dir/libft/ft_islower.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_islower.c.o   -c /Users/plettie/Desktop/211/libft/ft_islower.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/21reload.dir/libft/ft_islower.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_islower.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_islower.c
 
 CMakeFiles/21reload.dir/libft/ft_islower.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_islower.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_islower.c > CMakeFiles/21reload.dir/libft/ft_islower.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_islower.c > CMakeFiles/21reload.dir/libft/ft_islower.c.i
 
 CMakeFiles/21reload.dir/libft/ft_islower.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_islower.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_islower.c -o CMakeFiles/21reload.dir/libft/ft_islower.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_islower.c -o CMakeFiles/21reload.dir/libft/ft_islower.c.s
 
 CMakeFiles/21reload.dir/libft/ft_isprint.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_isprint.c.o: ../libft/ft_isprint.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/21reload.dir/libft/ft_isprint.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isprint.c.o   -c /Users/plettie/Desktop/211/libft/ft_isprint.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/21reload.dir/libft/ft_isprint.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isprint.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_isprint.c
 
 CMakeFiles/21reload.dir/libft/ft_isprint.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_isprint.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_isprint.c > CMakeFiles/21reload.dir/libft/ft_isprint.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_isprint.c > CMakeFiles/21reload.dir/libft/ft_isprint.c.i
 
 CMakeFiles/21reload.dir/libft/ft_isprint.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_isprint.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_isprint.c -o CMakeFiles/21reload.dir/libft/ft_isprint.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_isprint.c -o CMakeFiles/21reload.dir/libft/ft_isprint.c.s
 
 CMakeFiles/21reload.dir/libft/ft_isupper.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_isupper.c.o: ../libft/ft_isupper.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/21reload.dir/libft/ft_isupper.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isupper.c.o   -c /Users/plettie/Desktop/211/libft/ft_isupper.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/21reload.dir/libft/ft_isupper.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_isupper.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_isupper.c
 
 CMakeFiles/21reload.dir/libft/ft_isupper.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_isupper.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_isupper.c > CMakeFiles/21reload.dir/libft/ft_isupper.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_isupper.c > CMakeFiles/21reload.dir/libft/ft_isupper.c.i
 
 CMakeFiles/21reload.dir/libft/ft_isupper.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_isupper.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_isupper.c -o CMakeFiles/21reload.dir/libft/ft_isupper.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_isupper.c -o CMakeFiles/21reload.dir/libft/ft_isupper.c.s
 
 CMakeFiles/21reload.dir/libft/ft_itoa.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_itoa.c.o: ../libft/ft_itoa.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/21reload.dir/libft/ft_itoa.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_itoa.c.o   -c /Users/plettie/Desktop/211/libft/ft_itoa.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/21reload.dir/libft/ft_itoa.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_itoa.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_itoa.c
 
 CMakeFiles/21reload.dir/libft/ft_itoa.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_itoa.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_itoa.c > CMakeFiles/21reload.dir/libft/ft_itoa.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_itoa.c > CMakeFiles/21reload.dir/libft/ft_itoa.c.i
 
 CMakeFiles/21reload.dir/libft/ft_itoa.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_itoa.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_itoa.c -o CMakeFiles/21reload.dir/libft/ft_itoa.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_itoa.c -o CMakeFiles/21reload.dir/libft/ft_itoa.c.s
 
 CMakeFiles/21reload.dir/libft/ft_itoa_base.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_itoa_base.c.o: ../libft/ft_itoa_base.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/21reload.dir/libft/ft_itoa_base.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_itoa_base.c.o   -c /Users/plettie/Desktop/211/libft/ft_itoa_base.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/21reload.dir/libft/ft_itoa_base.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_itoa_base.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_itoa_base.c
 
 CMakeFiles/21reload.dir/libft/ft_itoa_base.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_itoa_base.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_itoa_base.c > CMakeFiles/21reload.dir/libft/ft_itoa_base.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_itoa_base.c > CMakeFiles/21reload.dir/libft/ft_itoa_base.c.i
 
 CMakeFiles/21reload.dir/libft/ft_itoa_base.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_itoa_base.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_itoa_base.c -o CMakeFiles/21reload.dir/libft/ft_itoa_base.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_itoa_base.c -o CMakeFiles/21reload.dir/libft/ft_itoa_base.c.s
 
 CMakeFiles/21reload.dir/libft/ft_labs.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_labs.c.o: ../libft/ft_labs.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/21reload.dir/libft/ft_labs.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_labs.c.o   -c /Users/plettie/Desktop/211/libft/ft_labs.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/21reload.dir/libft/ft_labs.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_labs.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_labs.c
 
 CMakeFiles/21reload.dir/libft/ft_labs.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_labs.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_labs.c > CMakeFiles/21reload.dir/libft/ft_labs.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_labs.c > CMakeFiles/21reload.dir/libft/ft_labs.c.i
 
 CMakeFiles/21reload.dir/libft/ft_labs.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_labs.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_labs.c -o CMakeFiles/21reload.dir/libft/ft_labs.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_labs.c -o CMakeFiles/21reload.dir/libft/ft_labs.c.s
 
 CMakeFiles/21reload.dir/libft/ft_list_clear.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_list_clear.c.o: ../libft/ft_list_clear.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/21reload.dir/libft/ft_list_clear.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_list_clear.c.o   -c /Users/plettie/Desktop/211/libft/ft_list_clear.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/21reload.dir/libft/ft_list_clear.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_list_clear.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_list_clear.c
 
 CMakeFiles/21reload.dir/libft/ft_list_clear.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_list_clear.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_list_clear.c > CMakeFiles/21reload.dir/libft/ft_list_clear.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_list_clear.c > CMakeFiles/21reload.dir/libft/ft_list_clear.c.i
 
 CMakeFiles/21reload.dir/libft/ft_list_clear.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_list_clear.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_list_clear.c -o CMakeFiles/21reload.dir/libft/ft_list_clear.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_list_clear.c -o CMakeFiles/21reload.dir/libft/ft_list_clear.c.s
 
 CMakeFiles/21reload.dir/libft/ft_list_foreach.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_list_foreach.c.o: ../libft/ft_list_foreach.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/21reload.dir/libft/ft_list_foreach.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_list_foreach.c.o   -c /Users/plettie/Desktop/211/libft/ft_list_foreach.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/21reload.dir/libft/ft_list_foreach.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_list_foreach.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_list_foreach.c
 
 CMakeFiles/21reload.dir/libft/ft_list_foreach.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_list_foreach.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_list_foreach.c > CMakeFiles/21reload.dir/libft/ft_list_foreach.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_list_foreach.c > CMakeFiles/21reload.dir/libft/ft_list_foreach.c.i
 
 CMakeFiles/21reload.dir/libft/ft_list_foreach.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_list_foreach.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_list_foreach.c -o CMakeFiles/21reload.dir/libft/ft_list_foreach.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_list_foreach.c -o CMakeFiles/21reload.dir/libft/ft_list_foreach.c.s
 
 CMakeFiles/21reload.dir/libft/ft_list_reverse.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_list_reverse.c.o: ../libft/ft_list_reverse.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/21reload.dir/libft/ft_list_reverse.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_list_reverse.c.o   -c /Users/plettie/Desktop/211/libft/ft_list_reverse.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/21reload.dir/libft/ft_list_reverse.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_list_reverse.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_list_reverse.c
 
 CMakeFiles/21reload.dir/libft/ft_list_reverse.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_list_reverse.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_list_reverse.c > CMakeFiles/21reload.dir/libft/ft_list_reverse.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_list_reverse.c > CMakeFiles/21reload.dir/libft/ft_list_reverse.c.i
 
 CMakeFiles/21reload.dir/libft/ft_list_reverse.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_list_reverse.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_list_reverse.c -o CMakeFiles/21reload.dir/libft/ft_list_reverse.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_list_reverse.c -o CMakeFiles/21reload.dir/libft/ft_list_reverse.c.s
 
 CMakeFiles/21reload.dir/libft/ft_lstadd.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_lstadd.c.o: ../libft/ft_lstadd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/21reload.dir/libft/ft_lstadd.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstadd.c.o   -c /Users/plettie/Desktop/211/libft/ft_lstadd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/21reload.dir/libft/ft_lstadd.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstadd.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_lstadd.c
 
 CMakeFiles/21reload.dir/libft/ft_lstadd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_lstadd.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_lstadd.c > CMakeFiles/21reload.dir/libft/ft_lstadd.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_lstadd.c > CMakeFiles/21reload.dir/libft/ft_lstadd.c.i
 
 CMakeFiles/21reload.dir/libft/ft_lstadd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_lstadd.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_lstadd.c -o CMakeFiles/21reload.dir/libft/ft_lstadd.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_lstadd.c -o CMakeFiles/21reload.dir/libft/ft_lstadd.c.s
 
 CMakeFiles/21reload.dir/libft/ft_lstdel.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_lstdel.c.o: ../libft/ft_lstdel.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/21reload.dir/libft/ft_lstdel.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstdel.c.o   -c /Users/plettie/Desktop/211/libft/ft_lstdel.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/21reload.dir/libft/ft_lstdel.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstdel.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_lstdel.c
 
 CMakeFiles/21reload.dir/libft/ft_lstdel.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_lstdel.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_lstdel.c > CMakeFiles/21reload.dir/libft/ft_lstdel.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_lstdel.c > CMakeFiles/21reload.dir/libft/ft_lstdel.c.i
 
 CMakeFiles/21reload.dir/libft/ft_lstdel.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_lstdel.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_lstdel.c -o CMakeFiles/21reload.dir/libft/ft_lstdel.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_lstdel.c -o CMakeFiles/21reload.dir/libft/ft_lstdel.c.s
 
 CMakeFiles/21reload.dir/libft/ft_lstdelone.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_lstdelone.c.o: ../libft/ft_lstdelone.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/21reload.dir/libft/ft_lstdelone.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstdelone.c.o   -c /Users/plettie/Desktop/211/libft/ft_lstdelone.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/21reload.dir/libft/ft_lstdelone.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstdelone.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_lstdelone.c
 
 CMakeFiles/21reload.dir/libft/ft_lstdelone.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_lstdelone.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_lstdelone.c > CMakeFiles/21reload.dir/libft/ft_lstdelone.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_lstdelone.c > CMakeFiles/21reload.dir/libft/ft_lstdelone.c.i
 
 CMakeFiles/21reload.dir/libft/ft_lstdelone.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_lstdelone.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_lstdelone.c -o CMakeFiles/21reload.dir/libft/ft_lstdelone.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_lstdelone.c -o CMakeFiles/21reload.dir/libft/ft_lstdelone.c.s
 
 CMakeFiles/21reload.dir/libft/ft_lstiter.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_lstiter.c.o: ../libft/ft_lstiter.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/21reload.dir/libft/ft_lstiter.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstiter.c.o   -c /Users/plettie/Desktop/211/libft/ft_lstiter.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/21reload.dir/libft/ft_lstiter.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstiter.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_lstiter.c
 
 CMakeFiles/21reload.dir/libft/ft_lstiter.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_lstiter.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_lstiter.c > CMakeFiles/21reload.dir/libft/ft_lstiter.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_lstiter.c > CMakeFiles/21reload.dir/libft/ft_lstiter.c.i
 
 CMakeFiles/21reload.dir/libft/ft_lstiter.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_lstiter.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_lstiter.c -o CMakeFiles/21reload.dir/libft/ft_lstiter.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_lstiter.c -o CMakeFiles/21reload.dir/libft/ft_lstiter.c.s
 
 CMakeFiles/21reload.dir/libft/ft_lstmap.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_lstmap.c.o: ../libft/ft_lstmap.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/21reload.dir/libft/ft_lstmap.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstmap.c.o   -c /Users/plettie/Desktop/211/libft/ft_lstmap.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/21reload.dir/libft/ft_lstmap.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstmap.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_lstmap.c
 
 CMakeFiles/21reload.dir/libft/ft_lstmap.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_lstmap.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_lstmap.c > CMakeFiles/21reload.dir/libft/ft_lstmap.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_lstmap.c > CMakeFiles/21reload.dir/libft/ft_lstmap.c.i
 
 CMakeFiles/21reload.dir/libft/ft_lstmap.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_lstmap.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_lstmap.c -o CMakeFiles/21reload.dir/libft/ft_lstmap.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_lstmap.c -o CMakeFiles/21reload.dir/libft/ft_lstmap.c.s
 
 CMakeFiles/21reload.dir/libft/ft_lstnew.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_lstnew.c.o: ../libft/ft_lstnew.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/21reload.dir/libft/ft_lstnew.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstnew.c.o   -c /Users/plettie/Desktop/211/libft/ft_lstnew.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/21reload.dir/libft/ft_lstnew.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_lstnew.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_lstnew.c
 
 CMakeFiles/21reload.dir/libft/ft_lstnew.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_lstnew.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_lstnew.c > CMakeFiles/21reload.dir/libft/ft_lstnew.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_lstnew.c > CMakeFiles/21reload.dir/libft/ft_lstnew.c.i
 
 CMakeFiles/21reload.dir/libft/ft_lstnew.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_lstnew.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_lstnew.c -o CMakeFiles/21reload.dir/libft/ft_lstnew.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_lstnew.c -o CMakeFiles/21reload.dir/libft/ft_lstnew.c.s
 
 CMakeFiles/21reload.dir/libft/ft_memalloc.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_memalloc.c.o: ../libft/ft_memalloc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/21reload.dir/libft/ft_memalloc.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memalloc.c.o   -c /Users/plettie/Desktop/211/libft/ft_memalloc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/21reload.dir/libft/ft_memalloc.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memalloc.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_memalloc.c
 
 CMakeFiles/21reload.dir/libft/ft_memalloc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_memalloc.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_memalloc.c > CMakeFiles/21reload.dir/libft/ft_memalloc.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_memalloc.c > CMakeFiles/21reload.dir/libft/ft_memalloc.c.i
 
 CMakeFiles/21reload.dir/libft/ft_memalloc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_memalloc.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_memalloc.c -o CMakeFiles/21reload.dir/libft/ft_memalloc.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_memalloc.c -o CMakeFiles/21reload.dir/libft/ft_memalloc.c.s
 
 CMakeFiles/21reload.dir/libft/ft_memccpy.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_memccpy.c.o: ../libft/ft_memccpy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/21reload.dir/libft/ft_memccpy.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memccpy.c.o   -c /Users/plettie/Desktop/211/libft/ft_memccpy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/21reload.dir/libft/ft_memccpy.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memccpy.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_memccpy.c
 
 CMakeFiles/21reload.dir/libft/ft_memccpy.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_memccpy.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_memccpy.c > CMakeFiles/21reload.dir/libft/ft_memccpy.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_memccpy.c > CMakeFiles/21reload.dir/libft/ft_memccpy.c.i
 
 CMakeFiles/21reload.dir/libft/ft_memccpy.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_memccpy.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_memccpy.c -o CMakeFiles/21reload.dir/libft/ft_memccpy.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_memccpy.c -o CMakeFiles/21reload.dir/libft/ft_memccpy.c.s
 
 CMakeFiles/21reload.dir/libft/ft_memchr.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_memchr.c.o: ../libft/ft_memchr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/21reload.dir/libft/ft_memchr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memchr.c.o   -c /Users/plettie/Desktop/211/libft/ft_memchr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/21reload.dir/libft/ft_memchr.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memchr.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_memchr.c
 
 CMakeFiles/21reload.dir/libft/ft_memchr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_memchr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_memchr.c > CMakeFiles/21reload.dir/libft/ft_memchr.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_memchr.c > CMakeFiles/21reload.dir/libft/ft_memchr.c.i
 
 CMakeFiles/21reload.dir/libft/ft_memchr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_memchr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_memchr.c -o CMakeFiles/21reload.dir/libft/ft_memchr.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_memchr.c -o CMakeFiles/21reload.dir/libft/ft_memchr.c.s
 
 CMakeFiles/21reload.dir/libft/ft_memcmp.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_memcmp.c.o: ../libft/ft_memcmp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/21reload.dir/libft/ft_memcmp.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memcmp.c.o   -c /Users/plettie/Desktop/211/libft/ft_memcmp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/21reload.dir/libft/ft_memcmp.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memcmp.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_memcmp.c
 
 CMakeFiles/21reload.dir/libft/ft_memcmp.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_memcmp.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_memcmp.c > CMakeFiles/21reload.dir/libft/ft_memcmp.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_memcmp.c > CMakeFiles/21reload.dir/libft/ft_memcmp.c.i
 
 CMakeFiles/21reload.dir/libft/ft_memcmp.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_memcmp.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_memcmp.c -o CMakeFiles/21reload.dir/libft/ft_memcmp.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_memcmp.c -o CMakeFiles/21reload.dir/libft/ft_memcmp.c.s
 
 CMakeFiles/21reload.dir/libft/ft_memcpy.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_memcpy.c.o: ../libft/ft_memcpy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/21reload.dir/libft/ft_memcpy.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memcpy.c.o   -c /Users/plettie/Desktop/211/libft/ft_memcpy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/21reload.dir/libft/ft_memcpy.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memcpy.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_memcpy.c
 
 CMakeFiles/21reload.dir/libft/ft_memcpy.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_memcpy.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_memcpy.c > CMakeFiles/21reload.dir/libft/ft_memcpy.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_memcpy.c > CMakeFiles/21reload.dir/libft/ft_memcpy.c.i
 
 CMakeFiles/21reload.dir/libft/ft_memcpy.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_memcpy.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_memcpy.c -o CMakeFiles/21reload.dir/libft/ft_memcpy.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_memcpy.c -o CMakeFiles/21reload.dir/libft/ft_memcpy.c.s
 
 CMakeFiles/21reload.dir/libft/ft_memdel.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_memdel.c.o: ../libft/ft_memdel.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/21reload.dir/libft/ft_memdel.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memdel.c.o   -c /Users/plettie/Desktop/211/libft/ft_memdel.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/21reload.dir/libft/ft_memdel.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memdel.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_memdel.c
 
 CMakeFiles/21reload.dir/libft/ft_memdel.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_memdel.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_memdel.c > CMakeFiles/21reload.dir/libft/ft_memdel.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_memdel.c > CMakeFiles/21reload.dir/libft/ft_memdel.c.i
 
 CMakeFiles/21reload.dir/libft/ft_memdel.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_memdel.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_memdel.c -o CMakeFiles/21reload.dir/libft/ft_memdel.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_memdel.c -o CMakeFiles/21reload.dir/libft/ft_memdel.c.s
 
 CMakeFiles/21reload.dir/libft/ft_memmove.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_memmove.c.o: ../libft/ft_memmove.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/21reload.dir/libft/ft_memmove.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memmove.c.o   -c /Users/plettie/Desktop/211/libft/ft_memmove.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/21reload.dir/libft/ft_memmove.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memmove.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_memmove.c
 
 CMakeFiles/21reload.dir/libft/ft_memmove.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_memmove.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_memmove.c > CMakeFiles/21reload.dir/libft/ft_memmove.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_memmove.c > CMakeFiles/21reload.dir/libft/ft_memmove.c.i
 
 CMakeFiles/21reload.dir/libft/ft_memmove.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_memmove.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_memmove.c -o CMakeFiles/21reload.dir/libft/ft_memmove.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_memmove.c -o CMakeFiles/21reload.dir/libft/ft_memmove.c.s
 
 CMakeFiles/21reload.dir/libft/ft_memset.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_memset.c.o: ../libft/ft_memset.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/21reload.dir/libft/ft_memset.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memset.c.o   -c /Users/plettie/Desktop/211/libft/ft_memset.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/21reload.dir/libft/ft_memset.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_memset.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_memset.c
 
 CMakeFiles/21reload.dir/libft/ft_memset.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_memset.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_memset.c > CMakeFiles/21reload.dir/libft/ft_memset.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_memset.c > CMakeFiles/21reload.dir/libft/ft_memset.c.i
 
 CMakeFiles/21reload.dir/libft/ft_memset.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_memset.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_memset.c -o CMakeFiles/21reload.dir/libft/ft_memset.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_memset.c -o CMakeFiles/21reload.dir/libft/ft_memset.c.s
 
 CMakeFiles/21reload.dir/libft/ft_nbrlen.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_nbrlen.c.o: ../libft/ft_nbrlen.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/21reload.dir/libft/ft_nbrlen.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_nbrlen.c.o   -c /Users/plettie/Desktop/211/libft/ft_nbrlen.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/21reload.dir/libft/ft_nbrlen.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_nbrlen.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_nbrlen.c
 
 CMakeFiles/21reload.dir/libft/ft_nbrlen.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_nbrlen.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_nbrlen.c > CMakeFiles/21reload.dir/libft/ft_nbrlen.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_nbrlen.c > CMakeFiles/21reload.dir/libft/ft_nbrlen.c.i
 
 CMakeFiles/21reload.dir/libft/ft_nbrlen.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_nbrlen.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_nbrlen.c -o CMakeFiles/21reload.dir/libft/ft_nbrlen.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_nbrlen.c -o CMakeFiles/21reload.dir/libft/ft_nbrlen.c.s
 
 CMakeFiles/21reload.dir/libft/ft_printf.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_printf.c.o: ../libft/ft_printf.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/21reload.dir/libft/ft_printf.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_printf.c.o   -c /Users/plettie/Desktop/211/libft/ft_printf.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/21reload.dir/libft/ft_printf.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_printf.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_printf.c
 
 CMakeFiles/21reload.dir/libft/ft_printf.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_printf.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_printf.c > CMakeFiles/21reload.dir/libft/ft_printf.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_printf.c > CMakeFiles/21reload.dir/libft/ft_printf.c.i
 
 CMakeFiles/21reload.dir/libft/ft_printf.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_printf.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_printf.c -o CMakeFiles/21reload.dir/libft/ft_printf.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_printf.c -o CMakeFiles/21reload.dir/libft/ft_printf.c.s
 
 CMakeFiles/21reload.dir/libft/ft_putchar.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_putchar.c.o: ../libft/ft_putchar.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/21reload.dir/libft/ft_putchar.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putchar.c.o   -c /Users/plettie/Desktop/211/libft/ft_putchar.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/21reload.dir/libft/ft_putchar.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putchar.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_putchar.c
 
 CMakeFiles/21reload.dir/libft/ft_putchar.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_putchar.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_putchar.c > CMakeFiles/21reload.dir/libft/ft_putchar.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_putchar.c > CMakeFiles/21reload.dir/libft/ft_putchar.c.i
 
 CMakeFiles/21reload.dir/libft/ft_putchar.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_putchar.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_putchar.c -o CMakeFiles/21reload.dir/libft/ft_putchar.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_putchar.c -o CMakeFiles/21reload.dir/libft/ft_putchar.c.s
 
 CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.o: ../libft/ft_putchar_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.o   -c /Users/plettie/Desktop/211/libft/ft_putchar_fd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_putchar_fd.c
 
 CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_putchar_fd.c > CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_putchar_fd.c > CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.i
 
 CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_putchar_fd.c -o CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_putchar_fd.c -o CMakeFiles/21reload.dir/libft/ft_putchar_fd.c.s
 
 CMakeFiles/21reload.dir/libft/ft_putendl.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_putendl.c.o: ../libft/ft_putendl.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/21reload.dir/libft/ft_putendl.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putendl.c.o   -c /Users/plettie/Desktop/211/libft/ft_putendl.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/21reload.dir/libft/ft_putendl.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putendl.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_putendl.c
 
 CMakeFiles/21reload.dir/libft/ft_putendl.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_putendl.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_putendl.c > CMakeFiles/21reload.dir/libft/ft_putendl.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_putendl.c > CMakeFiles/21reload.dir/libft/ft_putendl.c.i
 
 CMakeFiles/21reload.dir/libft/ft_putendl.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_putendl.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_putendl.c -o CMakeFiles/21reload.dir/libft/ft_putendl.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_putendl.c -o CMakeFiles/21reload.dir/libft/ft_putendl.c.s
 
 CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.o: ../libft/ft_putendl_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.o   -c /Users/plettie/Desktop/211/libft/ft_putendl_fd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_putendl_fd.c
 
 CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_putendl_fd.c > CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_putendl_fd.c > CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.i
 
 CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_putendl_fd.c -o CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_putendl_fd.c -o CMakeFiles/21reload.dir/libft/ft_putendl_fd.c.s
 
 CMakeFiles/21reload.dir/libft/ft_putnbr.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_putnbr.c.o: ../libft/ft_putnbr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/21reload.dir/libft/ft_putnbr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putnbr.c.o   -c /Users/plettie/Desktop/211/libft/ft_putnbr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/21reload.dir/libft/ft_putnbr.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putnbr.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_putnbr.c
 
 CMakeFiles/21reload.dir/libft/ft_putnbr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_putnbr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_putnbr.c > CMakeFiles/21reload.dir/libft/ft_putnbr.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_putnbr.c > CMakeFiles/21reload.dir/libft/ft_putnbr.c.i
 
 CMakeFiles/21reload.dir/libft/ft_putnbr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_putnbr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_putnbr.c -o CMakeFiles/21reload.dir/libft/ft_putnbr.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_putnbr.c -o CMakeFiles/21reload.dir/libft/ft_putnbr.c.s
 
 CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.o: ../libft/ft_putnbr_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.o   -c /Users/plettie/Desktop/211/libft/ft_putnbr_fd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_putnbr_fd.c
 
 CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_putnbr_fd.c > CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_putnbr_fd.c > CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.i
 
 CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_putnbr_fd.c -o CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_putnbr_fd.c -o CMakeFiles/21reload.dir/libft/ft_putnbr_fd.c.s
 
 CMakeFiles/21reload.dir/libft/ft_putstr.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_putstr.c.o: ../libft/ft_putstr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/21reload.dir/libft/ft_putstr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putstr.c.o   -c /Users/plettie/Desktop/211/libft/ft_putstr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/21reload.dir/libft/ft_putstr.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putstr.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_putstr.c
 
 CMakeFiles/21reload.dir/libft/ft_putstr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_putstr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_putstr.c > CMakeFiles/21reload.dir/libft/ft_putstr.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_putstr.c > CMakeFiles/21reload.dir/libft/ft_putstr.c.i
 
 CMakeFiles/21reload.dir/libft/ft_putstr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_putstr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_putstr.c -o CMakeFiles/21reload.dir/libft/ft_putstr.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_putstr.c -o CMakeFiles/21reload.dir/libft/ft_putstr.c.s
 
 CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.o: ../libft/ft_putstr_fd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.o   -c /Users/plettie/Desktop/211/libft/ft_putstr_fd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_putstr_fd.c
 
 CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_putstr_fd.c > CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_putstr_fd.c > CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.i
 
 CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_putstr_fd.c -o CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_putstr_fd.c -o CMakeFiles/21reload.dir/libft/ft_putstr_fd.c.s
 
 CMakeFiles/21reload.dir/libft/ft_realloc.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_realloc.c.o: ../libft/ft_realloc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/21reload.dir/libft/ft_realloc.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_realloc.c.o   -c /Users/plettie/Desktop/211/libft/ft_realloc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/21reload.dir/libft/ft_realloc.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_realloc.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_realloc.c
 
 CMakeFiles/21reload.dir/libft/ft_realloc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_realloc.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_realloc.c > CMakeFiles/21reload.dir/libft/ft_realloc.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_realloc.c > CMakeFiles/21reload.dir/libft/ft_realloc.c.i
 
 CMakeFiles/21reload.dir/libft/ft_realloc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_realloc.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_realloc.c -o CMakeFiles/21reload.dir/libft/ft_realloc.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_realloc.c -o CMakeFiles/21reload.dir/libft/ft_realloc.c.s
 
 CMakeFiles/21reload.dir/libft/ft_sqrt.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_sqrt.c.o: ../libft/ft_sqrt.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/21reload.dir/libft/ft_sqrt.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_sqrt.c.o   -c /Users/plettie/Desktop/211/libft/ft_sqrt.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/21reload.dir/libft/ft_sqrt.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_sqrt.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_sqrt.c
 
 CMakeFiles/21reload.dir/libft/ft_sqrt.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_sqrt.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_sqrt.c > CMakeFiles/21reload.dir/libft/ft_sqrt.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_sqrt.c > CMakeFiles/21reload.dir/libft/ft_sqrt.c.i
 
 CMakeFiles/21reload.dir/libft/ft_sqrt.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_sqrt.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_sqrt.c -o CMakeFiles/21reload.dir/libft/ft_sqrt.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_sqrt.c -o CMakeFiles/21reload.dir/libft/ft_sqrt.c.s
 
 CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.o: ../libft/ft_str_is_lowercase.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.o   -c /Users/plettie/Desktop/211/libft/ft_str_is_lowercase.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_str_is_lowercase.c
 
 CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_str_is_lowercase.c > CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_str_is_lowercase.c > CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.i
 
 CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_str_is_lowercase.c -o CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_str_is_lowercase.c -o CMakeFiles/21reload.dir/libft/ft_str_is_lowercase.c.s
 
 CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.o: ../libft/ft_str_is_numeric.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.o   -c /Users/plettie/Desktop/211/libft/ft_str_is_numeric.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_str_is_numeric.c
 
 CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_str_is_numeric.c > CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_str_is_numeric.c > CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.i
 
 CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_str_is_numeric.c -o CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_str_is_numeric.c -o CMakeFiles/21reload.dir/libft/ft_str_is_numeric.c.s
 
 CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.o: ../libft/ft_str_is_printable.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.o   -c /Users/plettie/Desktop/211/libft/ft_str_is_printable.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_str_is_printable.c
 
 CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_str_is_printable.c > CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_str_is_printable.c > CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.i
 
 CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_str_is_printable.c -o CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_str_is_printable.c -o CMakeFiles/21reload.dir/libft/ft_str_is_printable.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strcat.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strcat.c.o: ../libft/ft_strcat.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/21reload.dir/libft/ft_strcat.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strcat.c.o   -c /Users/plettie/Desktop/211/libft/ft_strcat.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/21reload.dir/libft/ft_strcat.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strcat.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strcat.c
 
 CMakeFiles/21reload.dir/libft/ft_strcat.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strcat.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strcat.c > CMakeFiles/21reload.dir/libft/ft_strcat.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strcat.c > CMakeFiles/21reload.dir/libft/ft_strcat.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strcat.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strcat.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strcat.c -o CMakeFiles/21reload.dir/libft/ft_strcat.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strcat.c -o CMakeFiles/21reload.dir/libft/ft_strcat.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strchr.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strchr.c.o: ../libft/ft_strchr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/21reload.dir/libft/ft_strchr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strchr.c.o   -c /Users/plettie/Desktop/211/libft/ft_strchr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/21reload.dir/libft/ft_strchr.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strchr.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strchr.c
 
 CMakeFiles/21reload.dir/libft/ft_strchr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strchr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strchr.c > CMakeFiles/21reload.dir/libft/ft_strchr.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strchr.c > CMakeFiles/21reload.dir/libft/ft_strchr.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strchr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strchr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strchr.c -o CMakeFiles/21reload.dir/libft/ft_strchr.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strchr.c -o CMakeFiles/21reload.dir/libft/ft_strchr.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strclr.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strclr.c.o: ../libft/ft_strclr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/21reload.dir/libft/ft_strclr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strclr.c.o   -c /Users/plettie/Desktop/211/libft/ft_strclr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/21reload.dir/libft/ft_strclr.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strclr.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strclr.c
 
 CMakeFiles/21reload.dir/libft/ft_strclr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strclr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strclr.c > CMakeFiles/21reload.dir/libft/ft_strclr.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strclr.c > CMakeFiles/21reload.dir/libft/ft_strclr.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strclr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strclr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strclr.c -o CMakeFiles/21reload.dir/libft/ft_strclr.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strclr.c -o CMakeFiles/21reload.dir/libft/ft_strclr.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strcmp.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strcmp.c.o: ../libft/ft_strcmp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/21reload.dir/libft/ft_strcmp.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strcmp.c.o   -c /Users/plettie/Desktop/211/libft/ft_strcmp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/21reload.dir/libft/ft_strcmp.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strcmp.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strcmp.c
 
 CMakeFiles/21reload.dir/libft/ft_strcmp.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strcmp.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strcmp.c > CMakeFiles/21reload.dir/libft/ft_strcmp.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strcmp.c > CMakeFiles/21reload.dir/libft/ft_strcmp.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strcmp.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strcmp.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strcmp.c -o CMakeFiles/21reload.dir/libft/ft_strcmp.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strcmp.c -o CMakeFiles/21reload.dir/libft/ft_strcmp.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.o: ../libft/ft_strcmp_start.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.o   -c /Users/plettie/Desktop/211/libft/ft_strcmp_start.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strcmp_start.c
 
 CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strcmp_start.c > CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strcmp_start.c > CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strcmp_start.c -o CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strcmp_start.c -o CMakeFiles/21reload.dir/libft/ft_strcmp_start.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strcpy.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strcpy.c.o: ../libft/ft_strcpy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/21reload.dir/libft/ft_strcpy.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strcpy.c.o   -c /Users/plettie/Desktop/211/libft/ft_strcpy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/21reload.dir/libft/ft_strcpy.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strcpy.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strcpy.c
 
 CMakeFiles/21reload.dir/libft/ft_strcpy.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strcpy.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strcpy.c > CMakeFiles/21reload.dir/libft/ft_strcpy.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strcpy.c > CMakeFiles/21reload.dir/libft/ft_strcpy.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strcpy.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strcpy.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strcpy.c -o CMakeFiles/21reload.dir/libft/ft_strcpy.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strcpy.c -o CMakeFiles/21reload.dir/libft/ft_strcpy.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strdel.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strdel.c.o: ../libft/ft_strdel.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/21reload.dir/libft/ft_strdel.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strdel.c.o   -c /Users/plettie/Desktop/211/libft/ft_strdel.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/21reload.dir/libft/ft_strdel.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strdel.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strdel.c
 
 CMakeFiles/21reload.dir/libft/ft_strdel.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strdel.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strdel.c > CMakeFiles/21reload.dir/libft/ft_strdel.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strdel.c > CMakeFiles/21reload.dir/libft/ft_strdel.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strdel.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strdel.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strdel.c -o CMakeFiles/21reload.dir/libft/ft_strdel.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strdel.c -o CMakeFiles/21reload.dir/libft/ft_strdel.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strdup.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strdup.c.o: ../libft/ft_strdup.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/21reload.dir/libft/ft_strdup.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strdup.c.o   -c /Users/plettie/Desktop/211/libft/ft_strdup.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/21reload.dir/libft/ft_strdup.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strdup.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strdup.c
 
 CMakeFiles/21reload.dir/libft/ft_strdup.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strdup.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strdup.c > CMakeFiles/21reload.dir/libft/ft_strdup.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strdup.c > CMakeFiles/21reload.dir/libft/ft_strdup.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strdup.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strdup.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strdup.c -o CMakeFiles/21reload.dir/libft/ft_strdup.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strdup.c -o CMakeFiles/21reload.dir/libft/ft_strdup.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strequ.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strequ.c.o: ../libft/ft_strequ.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/21reload.dir/libft/ft_strequ.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strequ.c.o   -c /Users/plettie/Desktop/211/libft/ft_strequ.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/21reload.dir/libft/ft_strequ.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strequ.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strequ.c
 
 CMakeFiles/21reload.dir/libft/ft_strequ.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strequ.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strequ.c > CMakeFiles/21reload.dir/libft/ft_strequ.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strequ.c > CMakeFiles/21reload.dir/libft/ft_strequ.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strequ.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strequ.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strequ.c -o CMakeFiles/21reload.dir/libft/ft_strequ.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strequ.c -o CMakeFiles/21reload.dir/libft/ft_strequ.c.s
 
 CMakeFiles/21reload.dir/libft/ft_striter.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_striter.c.o: ../libft/ft_striter.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/21reload.dir/libft/ft_striter.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_striter.c.o   -c /Users/plettie/Desktop/211/libft/ft_striter.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/21reload.dir/libft/ft_striter.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_striter.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_striter.c
 
 CMakeFiles/21reload.dir/libft/ft_striter.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_striter.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_striter.c > CMakeFiles/21reload.dir/libft/ft_striter.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_striter.c > CMakeFiles/21reload.dir/libft/ft_striter.c.i
 
 CMakeFiles/21reload.dir/libft/ft_striter.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_striter.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_striter.c -o CMakeFiles/21reload.dir/libft/ft_striter.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_striter.c -o CMakeFiles/21reload.dir/libft/ft_striter.c.s
 
 CMakeFiles/21reload.dir/libft/ft_striteri.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_striteri.c.o: ../libft/ft_striteri.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/21reload.dir/libft/ft_striteri.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_striteri.c.o   -c /Users/plettie/Desktop/211/libft/ft_striteri.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/21reload.dir/libft/ft_striteri.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_striteri.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_striteri.c
 
 CMakeFiles/21reload.dir/libft/ft_striteri.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_striteri.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_striteri.c > CMakeFiles/21reload.dir/libft/ft_striteri.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_striteri.c > CMakeFiles/21reload.dir/libft/ft_striteri.c.i
 
 CMakeFiles/21reload.dir/libft/ft_striteri.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_striteri.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_striteri.c -o CMakeFiles/21reload.dir/libft/ft_striteri.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_striteri.c -o CMakeFiles/21reload.dir/libft/ft_striteri.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strjoin.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strjoin.c.o: ../libft/ft_strjoin.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/21reload.dir/libft/ft_strjoin.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strjoin.c.o   -c /Users/plettie/Desktop/211/libft/ft_strjoin.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/21reload.dir/libft/ft_strjoin.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strjoin.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strjoin.c
 
 CMakeFiles/21reload.dir/libft/ft_strjoin.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strjoin.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strjoin.c > CMakeFiles/21reload.dir/libft/ft_strjoin.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strjoin.c > CMakeFiles/21reload.dir/libft/ft_strjoin.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strjoin.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strjoin.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strjoin.c -o CMakeFiles/21reload.dir/libft/ft_strjoin.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strjoin.c -o CMakeFiles/21reload.dir/libft/ft_strjoin.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.o: ../libft/ft_strjoin_cmp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.o   -c /Users/plettie/Desktop/211/libft/ft_strjoin_cmp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strjoin_cmp.c
 
 CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strjoin_cmp.c > CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strjoin_cmp.c > CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strjoin_cmp.c -o CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strjoin_cmp.c -o CMakeFiles/21reload.dir/libft/ft_strjoin_cmp.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strjoinch.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strjoinch.c.o: ../libft/ft_strjoinch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/21reload.dir/libft/ft_strjoinch.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strjoinch.c.o   -c /Users/plettie/Desktop/211/libft/ft_strjoinch.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/21reload.dir/libft/ft_strjoinch.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strjoinch.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strjoinch.c
 
 CMakeFiles/21reload.dir/libft/ft_strjoinch.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strjoinch.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strjoinch.c > CMakeFiles/21reload.dir/libft/ft_strjoinch.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strjoinch.c > CMakeFiles/21reload.dir/libft/ft_strjoinch.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strjoinch.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strjoinch.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strjoinch.c -o CMakeFiles/21reload.dir/libft/ft_strjoinch.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strjoinch.c -o CMakeFiles/21reload.dir/libft/ft_strjoinch.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.o: ../libft/ft_strjoinch_i.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.o   -c /Users/plettie/Desktop/211/libft/ft_strjoinch_i.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strjoinch_i.c
 
 CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strjoinch_i.c > CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strjoinch_i.c > CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strjoinch_i.c -o CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strjoinch_i.c -o CMakeFiles/21reload.dir/libft/ft_strjoinch_i.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strlcat.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strlcat.c.o: ../libft/ft_strlcat.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/21reload.dir/libft/ft_strlcat.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strlcat.c.o   -c /Users/plettie/Desktop/211/libft/ft_strlcat.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/21reload.dir/libft/ft_strlcat.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strlcat.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strlcat.c
 
 CMakeFiles/21reload.dir/libft/ft_strlcat.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strlcat.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strlcat.c > CMakeFiles/21reload.dir/libft/ft_strlcat.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strlcat.c > CMakeFiles/21reload.dir/libft/ft_strlcat.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strlcat.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strlcat.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strlcat.c -o CMakeFiles/21reload.dir/libft/ft_strlcat.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strlcat.c -o CMakeFiles/21reload.dir/libft/ft_strlcat.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strlen.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strlen.c.o: ../libft/ft_strlen.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/21reload.dir/libft/ft_strlen.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strlen.c.o   -c /Users/plettie/Desktop/211/libft/ft_strlen.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/21reload.dir/libft/ft_strlen.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strlen.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strlen.c
 
 CMakeFiles/21reload.dir/libft/ft_strlen.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strlen.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strlen.c > CMakeFiles/21reload.dir/libft/ft_strlen.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strlen.c > CMakeFiles/21reload.dir/libft/ft_strlen.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strlen.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strlen.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strlen.c -o CMakeFiles/21reload.dir/libft/ft_strlen.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strlen.c -o CMakeFiles/21reload.dir/libft/ft_strlen.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strmap.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strmap.c.o: ../libft/ft_strmap.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/21reload.dir/libft/ft_strmap.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strmap.c.o   -c /Users/plettie/Desktop/211/libft/ft_strmap.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/21reload.dir/libft/ft_strmap.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strmap.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strmap.c
 
 CMakeFiles/21reload.dir/libft/ft_strmap.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strmap.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strmap.c > CMakeFiles/21reload.dir/libft/ft_strmap.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strmap.c > CMakeFiles/21reload.dir/libft/ft_strmap.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strmap.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strmap.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strmap.c -o CMakeFiles/21reload.dir/libft/ft_strmap.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strmap.c -o CMakeFiles/21reload.dir/libft/ft_strmap.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strmapi.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strmapi.c.o: ../libft/ft_strmapi.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/21reload.dir/libft/ft_strmapi.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strmapi.c.o   -c /Users/plettie/Desktop/211/libft/ft_strmapi.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/21reload.dir/libft/ft_strmapi.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strmapi.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strmapi.c
 
 CMakeFiles/21reload.dir/libft/ft_strmapi.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strmapi.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strmapi.c > CMakeFiles/21reload.dir/libft/ft_strmapi.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strmapi.c > CMakeFiles/21reload.dir/libft/ft_strmapi.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strmapi.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strmapi.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strmapi.c -o CMakeFiles/21reload.dir/libft/ft_strmapi.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strmapi.c -o CMakeFiles/21reload.dir/libft/ft_strmapi.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strncat.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strncat.c.o: ../libft/ft_strncat.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/21reload.dir/libft/ft_strncat.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strncat.c.o   -c /Users/plettie/Desktop/211/libft/ft_strncat.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/21reload.dir/libft/ft_strncat.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strncat.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strncat.c
 
 CMakeFiles/21reload.dir/libft/ft_strncat.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strncat.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strncat.c > CMakeFiles/21reload.dir/libft/ft_strncat.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strncat.c > CMakeFiles/21reload.dir/libft/ft_strncat.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strncat.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strncat.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strncat.c -o CMakeFiles/21reload.dir/libft/ft_strncat.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strncat.c -o CMakeFiles/21reload.dir/libft/ft_strncat.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strncmp.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strncmp.c.o: ../libft/ft_strncmp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/21reload.dir/libft/ft_strncmp.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strncmp.c.o   -c /Users/plettie/Desktop/211/libft/ft_strncmp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/21reload.dir/libft/ft_strncmp.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strncmp.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strncmp.c
 
 CMakeFiles/21reload.dir/libft/ft_strncmp.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strncmp.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strncmp.c > CMakeFiles/21reload.dir/libft/ft_strncmp.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strncmp.c > CMakeFiles/21reload.dir/libft/ft_strncmp.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strncmp.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strncmp.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strncmp.c -o CMakeFiles/21reload.dir/libft/ft_strncmp.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strncmp.c -o CMakeFiles/21reload.dir/libft/ft_strncmp.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strncpy.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strncpy.c.o: ../libft/ft_strncpy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/21reload.dir/libft/ft_strncpy.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strncpy.c.o   -c /Users/plettie/Desktop/211/libft/ft_strncpy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/21reload.dir/libft/ft_strncpy.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strncpy.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strncpy.c
 
 CMakeFiles/21reload.dir/libft/ft_strncpy.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strncpy.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strncpy.c > CMakeFiles/21reload.dir/libft/ft_strncpy.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strncpy.c > CMakeFiles/21reload.dir/libft/ft_strncpy.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strncpy.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strncpy.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strncpy.c -o CMakeFiles/21reload.dir/libft/ft_strncpy.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strncpy.c -o CMakeFiles/21reload.dir/libft/ft_strncpy.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strndup.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strndup.c.o: ../libft/ft_strndup.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/21reload.dir/libft/ft_strndup.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strndup.c.o   -c /Users/plettie/Desktop/211/libft/ft_strndup.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/21reload.dir/libft/ft_strndup.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strndup.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strndup.c
 
 CMakeFiles/21reload.dir/libft/ft_strndup.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strndup.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strndup.c > CMakeFiles/21reload.dir/libft/ft_strndup.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strndup.c > CMakeFiles/21reload.dir/libft/ft_strndup.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strndup.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strndup.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strndup.c -o CMakeFiles/21reload.dir/libft/ft_strndup.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strndup.c -o CMakeFiles/21reload.dir/libft/ft_strndup.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strnequ.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strnequ.c.o: ../libft/ft_strnequ.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/21reload.dir/libft/ft_strnequ.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strnequ.c.o   -c /Users/plettie/Desktop/211/libft/ft_strnequ.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/21reload.dir/libft/ft_strnequ.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strnequ.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strnequ.c
 
 CMakeFiles/21reload.dir/libft/ft_strnequ.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strnequ.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strnequ.c > CMakeFiles/21reload.dir/libft/ft_strnequ.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strnequ.c > CMakeFiles/21reload.dir/libft/ft_strnequ.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strnequ.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strnequ.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strnequ.c -o CMakeFiles/21reload.dir/libft/ft_strnequ.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strnequ.c -o CMakeFiles/21reload.dir/libft/ft_strnequ.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strnew.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strnew.c.o: ../libft/ft_strnew.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/21reload.dir/libft/ft_strnew.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strnew.c.o   -c /Users/plettie/Desktop/211/libft/ft_strnew.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/21reload.dir/libft/ft_strnew.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strnew.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strnew.c
 
 CMakeFiles/21reload.dir/libft/ft_strnew.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strnew.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strnew.c > CMakeFiles/21reload.dir/libft/ft_strnew.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strnew.c > CMakeFiles/21reload.dir/libft/ft_strnew.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strnew.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strnew.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strnew.c -o CMakeFiles/21reload.dir/libft/ft_strnew.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strnew.c -o CMakeFiles/21reload.dir/libft/ft_strnew.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strnstr.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strnstr.c.o: ../libft/ft_strnstr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/21reload.dir/libft/ft_strnstr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strnstr.c.o   -c /Users/plettie/Desktop/211/libft/ft_strnstr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/21reload.dir/libft/ft_strnstr.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strnstr.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strnstr.c
 
 CMakeFiles/21reload.dir/libft/ft_strnstr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strnstr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strnstr.c > CMakeFiles/21reload.dir/libft/ft_strnstr.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strnstr.c > CMakeFiles/21reload.dir/libft/ft_strnstr.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strnstr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strnstr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strnstr.c -o CMakeFiles/21reload.dir/libft/ft_strnstr.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strnstr.c -o CMakeFiles/21reload.dir/libft/ft_strnstr.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strrchr.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strrchr.c.o: ../libft/ft_strrchr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/21reload.dir/libft/ft_strrchr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strrchr.c.o   -c /Users/plettie/Desktop/211/libft/ft_strrchr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/21reload.dir/libft/ft_strrchr.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strrchr.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strrchr.c
 
 CMakeFiles/21reload.dir/libft/ft_strrchr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strrchr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strrchr.c > CMakeFiles/21reload.dir/libft/ft_strrchr.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strrchr.c > CMakeFiles/21reload.dir/libft/ft_strrchr.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strrchr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strrchr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strrchr.c -o CMakeFiles/21reload.dir/libft/ft_strrchr.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strrchr.c -o CMakeFiles/21reload.dir/libft/ft_strrchr.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strsep.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strsep.c.o: ../libft/ft_strsep.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/21reload.dir/libft/ft_strsep.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strsep.c.o   -c /Users/plettie/Desktop/211/libft/ft_strsep.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/21reload.dir/libft/ft_strsep.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strsep.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strsep.c
 
 CMakeFiles/21reload.dir/libft/ft_strsep.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strsep.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strsep.c > CMakeFiles/21reload.dir/libft/ft_strsep.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strsep.c > CMakeFiles/21reload.dir/libft/ft_strsep.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strsep.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strsep.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strsep.c -o CMakeFiles/21reload.dir/libft/ft_strsep.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strsep.c -o CMakeFiles/21reload.dir/libft/ft_strsep.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strsplit.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strsplit.c.o: ../libft/ft_strsplit.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/21reload.dir/libft/ft_strsplit.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strsplit.c.o   -c /Users/plettie/Desktop/211/libft/ft_strsplit.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/21reload.dir/libft/ft_strsplit.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strsplit.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strsplit.c
 
 CMakeFiles/21reload.dir/libft/ft_strsplit.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strsplit.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strsplit.c > CMakeFiles/21reload.dir/libft/ft_strsplit.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strsplit.c > CMakeFiles/21reload.dir/libft/ft_strsplit.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strsplit.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strsplit.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strsplit.c -o CMakeFiles/21reload.dir/libft/ft_strsplit.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strsplit.c -o CMakeFiles/21reload.dir/libft/ft_strsplit.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strstr.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strstr.c.o: ../libft/ft_strstr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/21reload.dir/libft/ft_strstr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strstr.c.o   -c /Users/plettie/Desktop/211/libft/ft_strstr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/21reload.dir/libft/ft_strstr.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strstr.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strstr.c
 
 CMakeFiles/21reload.dir/libft/ft_strstr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strstr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strstr.c > CMakeFiles/21reload.dir/libft/ft_strstr.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strstr.c > CMakeFiles/21reload.dir/libft/ft_strstr.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strstr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strstr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strstr.c -o CMakeFiles/21reload.dir/libft/ft_strstr.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strstr.c -o CMakeFiles/21reload.dir/libft/ft_strstr.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strsub.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strsub.c.o: ../libft/ft_strsub.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/21reload.dir/libft/ft_strsub.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strsub.c.o   -c /Users/plettie/Desktop/211/libft/ft_strsub.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/21reload.dir/libft/ft_strsub.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strsub.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strsub.c
 
 CMakeFiles/21reload.dir/libft/ft_strsub.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strsub.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strsub.c > CMakeFiles/21reload.dir/libft/ft_strsub.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strsub.c > CMakeFiles/21reload.dir/libft/ft_strsub.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strsub.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strsub.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strsub.c -o CMakeFiles/21reload.dir/libft/ft_strsub.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strsub.c -o CMakeFiles/21reload.dir/libft/ft_strsub.c.s
 
 CMakeFiles/21reload.dir/libft/ft_strtrim.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_strtrim.c.o: ../libft/ft_strtrim.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/21reload.dir/libft/ft_strtrim.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strtrim.c.o   -c /Users/plettie/Desktop/211/libft/ft_strtrim.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/21reload.dir/libft/ft_strtrim.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_strtrim.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_strtrim.c
 
 CMakeFiles/21reload.dir/libft/ft_strtrim.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_strtrim.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_strtrim.c > CMakeFiles/21reload.dir/libft/ft_strtrim.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_strtrim.c > CMakeFiles/21reload.dir/libft/ft_strtrim.c.i
 
 CMakeFiles/21reload.dir/libft/ft_strtrim.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_strtrim.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_strtrim.c -o CMakeFiles/21reload.dir/libft/ft_strtrim.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_strtrim.c -o CMakeFiles/21reload.dir/libft/ft_strtrim.c.s
 
 CMakeFiles/21reload.dir/libft/ft_swap.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_swap.c.o: ../libft/ft_swap.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/21reload.dir/libft/ft_swap.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_swap.c.o   -c /Users/plettie/Desktop/211/libft/ft_swap.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/21reload.dir/libft/ft_swap.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_swap.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_swap.c
 
 CMakeFiles/21reload.dir/libft/ft_swap.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_swap.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_swap.c > CMakeFiles/21reload.dir/libft/ft_swap.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_swap.c > CMakeFiles/21reload.dir/libft/ft_swap.c.i
 
 CMakeFiles/21reload.dir/libft/ft_swap.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_swap.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_swap.c -o CMakeFiles/21reload.dir/libft/ft_swap.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_swap.c -o CMakeFiles/21reload.dir/libft/ft_swap.c.s
 
 CMakeFiles/21reload.dir/libft/ft_tolower.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_tolower.c.o: ../libft/ft_tolower.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/21reload.dir/libft/ft_tolower.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_tolower.c.o   -c /Users/plettie/Desktop/211/libft/ft_tolower.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/21reload.dir/libft/ft_tolower.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_tolower.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_tolower.c
 
 CMakeFiles/21reload.dir/libft/ft_tolower.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_tolower.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_tolower.c > CMakeFiles/21reload.dir/libft/ft_tolower.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_tolower.c > CMakeFiles/21reload.dir/libft/ft_tolower.c.i
 
 CMakeFiles/21reload.dir/libft/ft_tolower.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_tolower.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_tolower.c -o CMakeFiles/21reload.dir/libft/ft_tolower.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_tolower.c -o CMakeFiles/21reload.dir/libft/ft_tolower.c.s
 
 CMakeFiles/21reload.dir/libft/ft_toupper.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_toupper.c.o: ../libft/ft_toupper.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/21reload.dir/libft/ft_toupper.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_toupper.c.o   -c /Users/plettie/Desktop/211/libft/ft_toupper.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/21reload.dir/libft/ft_toupper.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_toupper.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_toupper.c
 
 CMakeFiles/21reload.dir/libft/ft_toupper.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_toupper.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_toupper.c > CMakeFiles/21reload.dir/libft/ft_toupper.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_toupper.c > CMakeFiles/21reload.dir/libft/ft_toupper.c.i
 
 CMakeFiles/21reload.dir/libft/ft_toupper.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_toupper.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_toupper.c -o CMakeFiles/21reload.dir/libft/ft_toupper.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_toupper.c -o CMakeFiles/21reload.dir/libft/ft_toupper.c.s
 
 CMakeFiles/21reload.dir/libft/ft_word_size.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/ft_word_size.c.o: ../libft/ft_word_size.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/21reload.dir/libft/ft_word_size.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_word_size.c.o   -c /Users/plettie/Desktop/211/libft/ft_word_size.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/21reload.dir/libft/ft_word_size.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/ft_word_size.c.o   -c /Users/wstygg/Desktop/21sh/libft/ft_word_size.c
 
 CMakeFiles/21reload.dir/libft/ft_word_size.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/ft_word_size.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/ft_word_size.c > CMakeFiles/21reload.dir/libft/ft_word_size.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/ft_word_size.c > CMakeFiles/21reload.dir/libft/ft_word_size.c.i
 
 CMakeFiles/21reload.dir/libft/ft_word_size.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/ft_word_size.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/ft_word_size.c -o CMakeFiles/21reload.dir/libft/ft_word_size.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/ft_word_size.c -o CMakeFiles/21reload.dir/libft/ft_word_size.c.s
 
 CMakeFiles/21reload.dir/libft/get_next_line.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/get_next_line.c.o: ../libft/get_next_line.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/21reload.dir/libft/get_next_line.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/get_next_line.c.o   -c /Users/plettie/Desktop/211/libft/get_next_line.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/21reload.dir/libft/get_next_line.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/get_next_line.c.o   -c /Users/wstygg/Desktop/21sh/libft/get_next_line.c
 
 CMakeFiles/21reload.dir/libft/get_next_line.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/get_next_line.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/get_next_line.c > CMakeFiles/21reload.dir/libft/get_next_line.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/get_next_line.c > CMakeFiles/21reload.dir/libft/get_next_line.c.i
 
 CMakeFiles/21reload.dir/libft/get_next_line.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/get_next_line.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/get_next_line.c -o CMakeFiles/21reload.dir/libft/get_next_line.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/get_next_line.c -o CMakeFiles/21reload.dir/libft/get_next_line.c.s
 
 CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.o: ../libft/get_next_line_with_sym.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.o   -c /Users/plettie/Desktop/211/libft/get_next_line_with_sym.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.o   -c /Users/wstygg/Desktop/21sh/libft/get_next_line_with_sym.c
 
 CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/libft/get_next_line_with_sym.c > CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/libft/get_next_line_with_sym.c > CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.i
 
 CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/libft/get_next_line_with_sym.c -o CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/libft/get_next_line_with_sym.c -o CMakeFiles/21reload.dir/libft/get_next_line_with_sym.c.s
 
 CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.o: ../src/builtins/allenv/ft_env.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.o   -c /Users/plettie/Desktop/211/src/builtins/allenv/ft_env.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.o   -c /Users/wstygg/Desktop/21sh/src/builtins/allenv/ft_env.c
 
 CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/builtins/allenv/ft_env.c > CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/builtins/allenv/ft_env.c > CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.i
 
 CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/builtins/allenv/ft_env.c -o CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/builtins/allenv/ft_env.c -o CMakeFiles/21reload.dir/src/builtins/allenv/ft_env.c.s
 
 CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.o: ../src/builtins/allenv/global_env.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.o   -c /Users/plettie/Desktop/211/src/builtins/allenv/global_env.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.o   -c /Users/wstygg/Desktop/21sh/src/builtins/allenv/global_env.c
 
 CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/builtins/allenv/global_env.c > CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/builtins/allenv/global_env.c > CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.i
 
 CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/builtins/allenv/global_env.c -o CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/builtins/allenv/global_env.c -o CMakeFiles/21reload.dir/src/builtins/allenv/global_env.c.s
 
 CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.o: ../src/builtins/allenv/main_env.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.o   -c /Users/plettie/Desktop/211/src/builtins/allenv/main_env.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.o   -c /Users/wstygg/Desktop/21sh/src/builtins/allenv/main_env.c
 
 CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/builtins/allenv/main_env.c > CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/builtins/allenv/main_env.c > CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.i
 
 CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/builtins/allenv/main_env.c -o CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/builtins/allenv/main_env.c -o CMakeFiles/21reload.dir/src/builtins/allenv/main_env.c.s
 
 CMakeFiles/21reload.dir/src/builtins/ft_cd.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/builtins/ft_cd.c.o: ../src/builtins/ft_cd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object CMakeFiles/21reload.dir/src/builtins/ft_cd.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/ft_cd.c.o   -c /Users/plettie/Desktop/211/src/builtins/ft_cd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object CMakeFiles/21reload.dir/src/builtins/ft_cd.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/ft_cd.c.o   -c /Users/wstygg/Desktop/21sh/src/builtins/ft_cd.c
 
 CMakeFiles/21reload.dir/src/builtins/ft_cd.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/builtins/ft_cd.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/builtins/ft_cd.c > CMakeFiles/21reload.dir/src/builtins/ft_cd.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/builtins/ft_cd.c > CMakeFiles/21reload.dir/src/builtins/ft_cd.c.i
 
 CMakeFiles/21reload.dir/src/builtins/ft_cd.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/builtins/ft_cd.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/builtins/ft_cd.c -o CMakeFiles/21reload.dir/src/builtins/ft_cd.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/builtins/ft_cd.c -o CMakeFiles/21reload.dir/src/builtins/ft_cd.c.s
 
 CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.o: ../src/builtins/ft_cd_2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.o   -c /Users/plettie/Desktop/211/src/builtins/ft_cd_2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.o   -c /Users/wstygg/Desktop/21sh/src/builtins/ft_cd_2.c
 
 CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/builtins/ft_cd_2.c > CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/builtins/ft_cd_2.c > CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.i
 
 CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/builtins/ft_cd_2.c -o CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/builtins/ft_cd_2.c -o CMakeFiles/21reload.dir/src/builtins/ft_cd_2.c.s
 
 CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.o: ../src/builtins/ft_cd_3.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.o   -c /Users/plettie/Desktop/211/src/builtins/ft_cd_3.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.o   -c /Users/wstygg/Desktop/21sh/src/builtins/ft_cd_3.c
 
 CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/builtins/ft_cd_3.c > CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/builtins/ft_cd_3.c > CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.i
 
 CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/builtins/ft_cd_3.c -o CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/builtins/ft_cd_3.c -o CMakeFiles/21reload.dir/src/builtins/ft_cd_3.c.s
 
 CMakeFiles/21reload.dir/src/builtins/ft_echo.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/builtins/ft_echo.c.o: ../src/builtins/ft_echo.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object CMakeFiles/21reload.dir/src/builtins/ft_echo.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/ft_echo.c.o   -c /Users/plettie/Desktop/211/src/builtins/ft_echo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object CMakeFiles/21reload.dir/src/builtins/ft_echo.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/ft_echo.c.o   -c /Users/wstygg/Desktop/21sh/src/builtins/ft_echo.c
 
 CMakeFiles/21reload.dir/src/builtins/ft_echo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/builtins/ft_echo.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/builtins/ft_echo.c > CMakeFiles/21reload.dir/src/builtins/ft_echo.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/builtins/ft_echo.c > CMakeFiles/21reload.dir/src/builtins/ft_echo.c.i
 
 CMakeFiles/21reload.dir/src/builtins/ft_echo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/builtins/ft_echo.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/builtins/ft_echo.c -o CMakeFiles/21reload.dir/src/builtins/ft_echo.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/builtins/ft_echo.c -o CMakeFiles/21reload.dir/src/builtins/ft_echo.c.s
 
 CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.o: ../src/builtins/ft_echo2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.o   -c /Users/plettie/Desktop/211/src/builtins/ft_echo2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.o   -c /Users/wstygg/Desktop/21sh/src/builtins/ft_echo2.c
 
 CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/builtins/ft_echo2.c > CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/builtins/ft_echo2.c > CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.i
 
 CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/builtins/ft_echo2.c -o CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/builtins/ft_echo2.c -o CMakeFiles/21reload.dir/src/builtins/ft_echo2.c.s
 
 CMakeFiles/21reload.dir/src/errors/errror_handler.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/errors/errror_handler.c.o: ../src/errors/errror_handler.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object CMakeFiles/21reload.dir/src/errors/errror_handler.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/errors/errror_handler.c.o   -c /Users/plettie/Desktop/211/src/errors/errror_handler.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object CMakeFiles/21reload.dir/src/errors/errror_handler.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/errors/errror_handler.c.o   -c /Users/wstygg/Desktop/21sh/src/errors/errror_handler.c
 
 CMakeFiles/21reload.dir/src/errors/errror_handler.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/errors/errror_handler.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/errors/errror_handler.c > CMakeFiles/21reload.dir/src/errors/errror_handler.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/errors/errror_handler.c > CMakeFiles/21reload.dir/src/errors/errror_handler.c.i
 
 CMakeFiles/21reload.dir/src/errors/errror_handler.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/errors/errror_handler.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/errors/errror_handler.c -o CMakeFiles/21reload.dir/src/errors/errror_handler.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/errors/errror_handler.c -o CMakeFiles/21reload.dir/src/errors/errror_handler.c.s
 
 CMakeFiles/21reload.dir/src/exec/ft_create_file.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/exec/ft_create_file.c.o: ../src/exec/ft_create_file.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object CMakeFiles/21reload.dir/src/exec/ft_create_file.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/exec/ft_create_file.c.o   -c /Users/plettie/Desktop/211/src/exec/ft_create_file.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object CMakeFiles/21reload.dir/src/exec/ft_create_file.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/exec/ft_create_file.c.o   -c /Users/wstygg/Desktop/21sh/src/exec/ft_create_file.c
 
 CMakeFiles/21reload.dir/src/exec/ft_create_file.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/exec/ft_create_file.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/exec/ft_create_file.c > CMakeFiles/21reload.dir/src/exec/ft_create_file.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/exec/ft_create_file.c > CMakeFiles/21reload.dir/src/exec/ft_create_file.c.i
 
 CMakeFiles/21reload.dir/src/exec/ft_create_file.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/exec/ft_create_file.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/exec/ft_create_file.c -o CMakeFiles/21reload.dir/src/exec/ft_create_file.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/exec/ft_create_file.c -o CMakeFiles/21reload.dir/src/exec/ft_create_file.c.s
 
 CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.o: ../src/exec/ft_do_pipe.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.o   -c /Users/plettie/Desktop/211/src/exec/ft_do_pipe.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.o   -c /Users/wstygg/Desktop/21sh/src/exec/ft_do_pipe.c
 
 CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/exec/ft_do_pipe.c > CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/exec/ft_do_pipe.c > CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.i
 
 CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/exec/ft_do_pipe.c -o CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/exec/ft_do_pipe.c -o CMakeFiles/21reload.dir/src/exec/ft_do_pipe.c.s
 
 CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.o: ../src/exec/ft_fun_fork.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.o   -c /Users/plettie/Desktop/211/src/exec/ft_fun_fork.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.o   -c /Users/wstygg/Desktop/21sh/src/exec/ft_fun_fork.c
 
 CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/exec/ft_fun_fork.c > CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/exec/ft_fun_fork.c > CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.i
 
 CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/exec/ft_fun_fork.c -o CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/exec/ft_fun_fork.c -o CMakeFiles/21reload.dir/src/exec/ft_fun_fork.c.s
 
 CMakeFiles/21reload.dir/src/hash/hash_error.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/hash/hash_error.c.o: ../src/hash/hash_error.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object CMakeFiles/21reload.dir/src/hash/hash_error.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/hash/hash_error.c.o   -c /Users/plettie/Desktop/211/src/hash/hash_error.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object CMakeFiles/21reload.dir/src/hash/hash_error.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/hash/hash_error.c.o   -c /Users/wstygg/Desktop/21sh/src/hash/hash_error.c
 
 CMakeFiles/21reload.dir/src/hash/hash_error.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/hash/hash_error.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/hash/hash_error.c > CMakeFiles/21reload.dir/src/hash/hash_error.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/hash/hash_error.c > CMakeFiles/21reload.dir/src/hash/hash_error.c.i
 
 CMakeFiles/21reload.dir/src/hash/hash_error.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/hash/hash_error.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/hash/hash_error.c -o CMakeFiles/21reload.dir/src/hash/hash_error.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/hash/hash_error.c -o CMakeFiles/21reload.dir/src/hash/hash_error.c.s
 
 CMakeFiles/21reload.dir/src/hash/hash_table.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/hash/hash_table.c.o: ../src/hash/hash_table.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object CMakeFiles/21reload.dir/src/hash/hash_table.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/hash/hash_table.c.o   -c /Users/plettie/Desktop/211/src/hash/hash_table.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object CMakeFiles/21reload.dir/src/hash/hash_table.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/hash/hash_table.c.o   -c /Users/wstygg/Desktop/21sh/src/hash/hash_table.c
 
 CMakeFiles/21reload.dir/src/hash/hash_table.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/hash/hash_table.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/hash/hash_table.c > CMakeFiles/21reload.dir/src/hash/hash_table.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/hash/hash_table.c > CMakeFiles/21reload.dir/src/hash/hash_table.c.i
 
 CMakeFiles/21reload.dir/src/hash/hash_table.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/hash/hash_table.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/hash/hash_table.c -o CMakeFiles/21reload.dir/src/hash/hash_table.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/hash/hash_table.c -o CMakeFiles/21reload.dir/src/hash/hash_table.c.s
 
 CMakeFiles/21reload.dir/src/hash/hash_table_2.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/hash/hash_table_2.c.o: ../src/hash/hash_table_2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object CMakeFiles/21reload.dir/src/hash/hash_table_2.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/hash/hash_table_2.c.o   -c /Users/plettie/Desktop/211/src/hash/hash_table_2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object CMakeFiles/21reload.dir/src/hash/hash_table_2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/hash/hash_table_2.c.o   -c /Users/wstygg/Desktop/21sh/src/hash/hash_table_2.c
 
 CMakeFiles/21reload.dir/src/hash/hash_table_2.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/hash/hash_table_2.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/hash/hash_table_2.c > CMakeFiles/21reload.dir/src/hash/hash_table_2.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/hash/hash_table_2.c > CMakeFiles/21reload.dir/src/hash/hash_table_2.c.i
 
 CMakeFiles/21reload.dir/src/hash/hash_table_2.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/hash/hash_table_2.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/hash/hash_table_2.c -o CMakeFiles/21reload.dir/src/hash/hash_table_2.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/hash/hash_table_2.c -o CMakeFiles/21reload.dir/src/hash/hash_table_2.c.s
 
 CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.o: ../src/lexer/all_bax_and_hist_change.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.o   -c /Users/plettie/Desktop/211/src/lexer/all_bax_and_hist_change.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/all_bax_and_hist_change.c
 
 CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/all_bax_and_hist_change.c > CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/all_bax_and_hist_change.c > CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.i
 
 CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/all_bax_and_hist_change.c -o CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/all_bax_and_hist_change.c -o CMakeFiles/21reload.dir/src/lexer/all_bax_and_hist_change.c.s
 
 CMakeFiles/21reload.dir/src/lexer/change_dol.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/change_dol.c.o: ../src/lexer/change_dol.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object CMakeFiles/21reload.dir/src/lexer/change_dol.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/change_dol.c.o   -c /Users/plettie/Desktop/211/src/lexer/change_dol.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object CMakeFiles/21reload.dir/src/lexer/change_dol.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/change_dol.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/change_dol.c
 
 CMakeFiles/21reload.dir/src/lexer/change_dol.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/change_dol.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/change_dol.c > CMakeFiles/21reload.dir/src/lexer/change_dol.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/change_dol.c > CMakeFiles/21reload.dir/src/lexer/change_dol.c.i
 
 CMakeFiles/21reload.dir/src/lexer/change_dol.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/change_dol.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/change_dol.c -o CMakeFiles/21reload.dir/src/lexer/change_dol.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/change_dol.c -o CMakeFiles/21reload.dir/src/lexer/change_dol.c.s
 
 CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.o: ../src/lexer/change_hist_exp.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.o   -c /Users/plettie/Desktop/211/src/lexer/change_hist_exp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/change_hist_exp.c
 
 CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/change_hist_exp.c > CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/change_hist_exp.c > CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.i
 
 CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/change_hist_exp.c -o CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/change_hist_exp.c -o CMakeFiles/21reload.dir/src/lexer/change_hist_exp.c.s
 
 CMakeFiles/21reload.dir/src/lexer/change_spaces.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/change_spaces.c.o: ../src/lexer/change_spaces.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object CMakeFiles/21reload.dir/src/lexer/change_spaces.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/change_spaces.c.o   -c /Users/plettie/Desktop/211/src/lexer/change_spaces.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object CMakeFiles/21reload.dir/src/lexer/change_spaces.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/change_spaces.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/change_spaces.c
 
 CMakeFiles/21reload.dir/src/lexer/change_spaces.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/change_spaces.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/change_spaces.c > CMakeFiles/21reload.dir/src/lexer/change_spaces.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/change_spaces.c > CMakeFiles/21reload.dir/src/lexer/change_spaces.c.i
 
 CMakeFiles/21reload.dir/src/lexer/change_spaces.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/change_spaces.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/change_spaces.c -o CMakeFiles/21reload.dir/src/lexer/change_spaces.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/change_spaces.c -o CMakeFiles/21reload.dir/src/lexer/change_spaces.c.s
 
 CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.o: ../src/lexer/change_str_by_str.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.o   -c /Users/plettie/Desktop/211/src/lexer/change_str_by_str.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/change_str_by_str.c
 
 CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/change_str_by_str.c > CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/change_str_by_str.c > CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.i
 
 CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/change_str_by_str.c -o CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/change_str_by_str.c -o CMakeFiles/21reload.dir/src/lexer/change_str_by_str.c.s
 
 CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.o: ../src/lexer/cr_and_add_tokens.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.o   -c /Users/plettie/Desktop/211/src/lexer/cr_and_add_tokens.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/cr_and_add_tokens.c
 
 CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/cr_and_add_tokens.c > CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/cr_and_add_tokens.c > CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.i
 
 CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/cr_and_add_tokens.c -o CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/cr_and_add_tokens.c -o CMakeFiles/21reload.dir/src/lexer/cr_and_add_tokens.c.s
 
 CMakeFiles/21reload.dir/src/lexer/dop_funs.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/dop_funs.c.o: ../src/lexer/dop_funs.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object CMakeFiles/21reload.dir/src/lexer/dop_funs.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/dop_funs.c.o   -c /Users/plettie/Desktop/211/src/lexer/dop_funs.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object CMakeFiles/21reload.dir/src/lexer/dop_funs.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/dop_funs.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/dop_funs.c
 
 CMakeFiles/21reload.dir/src/lexer/dop_funs.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/dop_funs.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/dop_funs.c > CMakeFiles/21reload.dir/src/lexer/dop_funs.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/dop_funs.c > CMakeFiles/21reload.dir/src/lexer/dop_funs.c.i
 
 CMakeFiles/21reload.dir/src/lexer/dop_funs.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/dop_funs.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/dop_funs.c -o CMakeFiles/21reload.dir/src/lexer/dop_funs.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/dop_funs.c -o CMakeFiles/21reload.dir/src/lexer/dop_funs.c.s
 
 CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.o: ../src/lexer/get_opt_type.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.o   -c /Users/plettie/Desktop/211/src/lexer/get_opt_type.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/get_opt_type.c
 
 CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/get_opt_type.c > CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/get_opt_type.c > CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.i
 
 CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/get_opt_type.c -o CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/get_opt_type.c -o CMakeFiles/21reload.dir/src/lexer/get_opt_type.c.s
 
 CMakeFiles/21reload.dir/src/lexer/history_search.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/history_search.c.o: ../src/lexer/history_search.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object CMakeFiles/21reload.dir/src/lexer/history_search.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/history_search.c.o   -c /Users/plettie/Desktop/211/src/lexer/history_search.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object CMakeFiles/21reload.dir/src/lexer/history_search.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/history_search.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/history_search.c
 
 CMakeFiles/21reload.dir/src/lexer/history_search.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/history_search.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/history_search.c > CMakeFiles/21reload.dir/src/lexer/history_search.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/history_search.c > CMakeFiles/21reload.dir/src/lexer/history_search.c.i
 
 CMakeFiles/21reload.dir/src/lexer/history_search.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/history_search.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/history_search.c -o CMakeFiles/21reload.dir/src/lexer/history_search.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/history_search.c -o CMakeFiles/21reload.dir/src/lexer/history_search.c.s
 
 CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.o: ../src/lexer/kill_dop_structure.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.o   -c /Users/plettie/Desktop/211/src/lexer/kill_dop_structure.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/kill_dop_structure.c
 
 CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/kill_dop_structure.c > CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/kill_dop_structure.c > CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.i
 
 CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/kill_dop_structure.c -o CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/kill_dop_structure.c -o CMakeFiles/21reload.dir/src/lexer/kill_dop_structure.c.s
 
 CMakeFiles/21reload.dir/src/lexer/lexer.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/lexer.c.o: ../src/lexer/lexer.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object CMakeFiles/21reload.dir/src/lexer/lexer.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/lexer.c.o   -c /Users/plettie/Desktop/211/src/lexer/lexer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object CMakeFiles/21reload.dir/src/lexer/lexer.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/lexer.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/lexer.c
 
 CMakeFiles/21reload.dir/src/lexer/lexer.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/lexer.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/lexer.c > CMakeFiles/21reload.dir/src/lexer/lexer.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/lexer.c > CMakeFiles/21reload.dir/src/lexer/lexer.c.i
 
 CMakeFiles/21reload.dir/src/lexer/lexer.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/lexer.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/lexer.c -o CMakeFiles/21reload.dir/src/lexer/lexer.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/lexer.c -o CMakeFiles/21reload.dir/src/lexer/lexer.c.s
 
 CMakeFiles/21reload.dir/src/lexer/word_sizes.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/lexer/word_sizes.c.o: ../src/lexer/word_sizes.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object CMakeFiles/21reload.dir/src/lexer/word_sizes.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/word_sizes.c.o   -c /Users/plettie/Desktop/211/src/lexer/word_sizes.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object CMakeFiles/21reload.dir/src/lexer/word_sizes.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/lexer/word_sizes.c.o   -c /Users/wstygg/Desktop/21sh/src/lexer/word_sizes.c
 
 CMakeFiles/21reload.dir/src/lexer/word_sizes.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/lexer/word_sizes.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/lexer/word_sizes.c > CMakeFiles/21reload.dir/src/lexer/word_sizes.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/lexer/word_sizes.c > CMakeFiles/21reload.dir/src/lexer/word_sizes.c.i
 
 CMakeFiles/21reload.dir/src/lexer/word_sizes.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/lexer/word_sizes.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/lexer/word_sizes.c -o CMakeFiles/21reload.dir/src/lexer/word_sizes.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/lexer/word_sizes.c -o CMakeFiles/21reload.dir/src/lexer/word_sizes.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/del_readline.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/del_readline.c.o: ../src/nucleus/del_readline.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object CMakeFiles/21reload.dir/src/nucleus/del_readline.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/del_readline.c.o   -c /Users/plettie/Desktop/211/src/nucleus/del_readline.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object CMakeFiles/21reload.dir/src/nucleus/del_readline.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/del_readline.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/del_readline.c
 
 CMakeFiles/21reload.dir/src/nucleus/del_readline.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/del_readline.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/del_readline.c > CMakeFiles/21reload.dir/src/nucleus/del_readline.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/del_readline.c > CMakeFiles/21reload.dir/src/nucleus/del_readline.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/del_readline.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/del_readline.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/del_readline.c -o CMakeFiles/21reload.dir/src/nucleus/del_readline.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/del_readline.c -o CMakeFiles/21reload.dir/src/nucleus/del_readline.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/do_add.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/do_add.c.o: ../src/nucleus/do_add.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object CMakeFiles/21reload.dir/src/nucleus/do_add.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/do_add.c.o   -c /Users/plettie/Desktop/211/src/nucleus/do_add.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object CMakeFiles/21reload.dir/src/nucleus/do_add.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/do_add.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/do_add.c
 
 CMakeFiles/21reload.dir/src/nucleus/do_add.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/do_add.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/do_add.c > CMakeFiles/21reload.dir/src/nucleus/do_add.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/do_add.c > CMakeFiles/21reload.dir/src/nucleus/do_add.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/do_add.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/do_add.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/do_add.c -o CMakeFiles/21reload.dir/src/nucleus/do_add.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/do_add.c -o CMakeFiles/21reload.dir/src/nucleus/do_add.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.o: ../src/nucleus/dop_tab_funs.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.o   -c /Users/plettie/Desktop/211/src/nucleus/dop_tab_funs.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/dop_tab_funs.c
 
 CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/dop_tab_funs.c > CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/dop_tab_funs.c > CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/dop_tab_funs.c -o CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/dop_tab_funs.c -o CMakeFiles/21reload.dir/src/nucleus/dop_tab_funs.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/find_history.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/find_history.c.o: ../src/nucleus/find_history.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object CMakeFiles/21reload.dir/src/nucleus/find_history.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/find_history.c.o   -c /Users/plettie/Desktop/211/src/nucleus/find_history.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object CMakeFiles/21reload.dir/src/nucleus/find_history.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/find_history.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/find_history.c
 
 CMakeFiles/21reload.dir/src/nucleus/find_history.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/find_history.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/find_history.c > CMakeFiles/21reload.dir/src/nucleus/find_history.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/find_history.c > CMakeFiles/21reload.dir/src/nucleus/find_history.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/find_history.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/find_history.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/find_history.c -o CMakeFiles/21reload.dir/src/nucleus/find_history.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/find_history.c -o CMakeFiles/21reload.dir/src/nucleus/find_history.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.o: ../src/nucleus/ft_add_intput_que.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_add_intput_que.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_add_intput_que.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_add_intput_que.c > CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_add_intput_que.c > CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_add_intput_que.c -o CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_add_intput_que.c -o CMakeFiles/21reload.dir/src/nucleus/ft_add_intput_que.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.o: ../src/nucleus/ft_add_sumchar.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_add_sumchar.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_add_sumchar.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_add_sumchar.c > CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_add_sumchar.c > CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_add_sumchar.c -o CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_add_sumchar.c -o CMakeFiles/21reload.dir/src/nucleus/ft_add_sumchar.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.o: ../src/nucleus/ft_arrdel.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_arrdel.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_arrdel.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_arrdel.c > CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_arrdel.c > CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_arrdel.c -o CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_arrdel.c -o CMakeFiles/21reload.dir/src/nucleus/ft_arrdel.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.o: ../src/nucleus/ft_arrnew.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_arrnew.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_arrnew.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_arrnew.c > CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_arrnew.c > CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_arrnew.c -o CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_arrnew.c -o CMakeFiles/21reload.dir/src/nucleus/ft_arrnew.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.o: ../src/nucleus/ft_arrows.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_arrows.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_arrows.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_arrows.c > CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_arrows.c > CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_arrows.c -o CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_arrows.c -o CMakeFiles/21reload.dir/src/nucleus/ft_arrows.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.o: ../src/nucleus/ft_back_slovo.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_back_slovo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_back_slovo.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_back_slovo.c > CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_back_slovo.c > CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_back_slovo.c -o CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_back_slovo.c -o CMakeFiles/21reload.dir/src/nucleus/ft_back_slovo.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_c.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_c.c.o: ../src/nucleus/ft_c.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_c.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_c.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_c.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_c.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_c.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_c.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_c.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_c.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_c.c > CMakeFiles/21reload.dir/src/nucleus/ft_c.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_c.c > CMakeFiles/21reload.dir/src/nucleus/ft_c.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_c.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_c.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_c.c -o CMakeFiles/21reload.dir/src/nucleus/ft_c.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_c.c -o CMakeFiles/21reload.dir/src/nucleus/ft_c.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.o: ../src/nucleus/ft_cheak_quote.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_cheak_quote.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_cheak_quote.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_cheak_quote.c > CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_cheak_quote.c > CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_cheak_quote.c -o CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_cheak_quote.c -o CMakeFiles/21reload.dir/src/nucleus/ft_cheak_quote.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.o: ../src/nucleus/ft_cleanstr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_cleanstr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_cleanstr.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_cleanstr.c > CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_cleanstr.c > CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_cleanstr.c -o CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_cleanstr.c -o CMakeFiles/21reload.dir/src/nucleus/ft_cleanstr.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.o: ../src/nucleus/ft_cut.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_cut.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_cut.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_cut.c > CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_cut.c > CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_cut.c -o CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_cut.c -o CMakeFiles/21reload.dir/src/nucleus/ft_cut.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.o: ../src/nucleus/ft_cut_copy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_cut_copy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_cut_copy.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_cut_copy.c > CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_cut_copy.c > CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_cut_copy.c -o CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_cut_copy.c -o CMakeFiles/21reload.dir/src/nucleus/ft_cut_copy.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.o: ../src/nucleus/ft_do_copy.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_do_copy.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_do_copy.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_do_copy.c > CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_do_copy.c > CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_do_copy.c -o CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_do_copy.c -o CMakeFiles/21reload.dir/src/nucleus/ft_do_copy.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.o: ../src/nucleus/ft_do_delch.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_do_delch.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_do_delch.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_do_delch.c > CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_do_delch.c > CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_do_delch.c -o CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_do_delch.c -o CMakeFiles/21reload.dir/src/nucleus/ft_do_delch.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.o: ../src/nucleus/ft_do_leftright.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_do_leftright.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_do_leftright.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_do_leftright.c > CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_do_leftright.c > CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_do_leftright.c -o CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_do_leftright.c -o CMakeFiles/21reload.dir/src/nucleus/ft_do_leftright.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.o: ../src/nucleus/ft_dop_history.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_dop_history.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_dop_history.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_dop_history.c > CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_dop_history.c > CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_dop_history.c -o CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_dop_history.c -o CMakeFiles/21reload.dir/src/nucleus/ft_dop_history.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.o: ../src/nucleus/ft_downcursor.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_downcursor.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_downcursor.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_downcursor.c > CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_downcursor.c > CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_downcursor.c -o CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_downcursor.c -o CMakeFiles/21reload.dir/src/nucleus/ft_downcursor.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.o: ../src/nucleus/ft_head_memory.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_head_memory.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_head_memory.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_head_memory.c > CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_head_memory.c > CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_head_memory.c -o CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_head_memory.c -o CMakeFiles/21reload.dir/src/nucleus/ft_head_memory.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.o: ../src/nucleus/ft_memory.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_memory.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_memory.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_memory.c > CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_memory.c > CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_memory.c -o CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_memory.c -o CMakeFiles/21reload.dir/src/nucleus/ft_memory.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.o: ../src/nucleus/ft_next_slovo.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_next_slovo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_next_slovo.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_next_slovo.c > CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_next_slovo.c > CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_next_slovo.c -o CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_next_slovo.c -o CMakeFiles/21reload.dir/src/nucleus/ft_next_slovo.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.o: ../src/nucleus/ft_print_tab.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_print_tab.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_print_tab.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_print_tab.c > CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_print_tab.c > CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_print_tab.c -o CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_print_tab.c -o CMakeFiles/21reload.dir/src/nucleus/ft_print_tab.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.o: ../src/nucleus/ft_printf_helper.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_printf_helper.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_printf_helper.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_printf_helper.c > CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_printf_helper.c > CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_printf_helper.c -o CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_printf_helper.c -o CMakeFiles/21reload.dir/src/nucleus/ft_printf_helper.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.o: ../src/nucleus/ft_put_n.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_put_n.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_put_n.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_put_n.c > CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_put_n.c > CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_put_n.c -o CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_put_n.c -o CMakeFiles/21reload.dir/src/nucleus/ft_put_n.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.o: ../src/nucleus/ft_putcut.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_putcut.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_putcut.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_putcut.c > CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_putcut.c > CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_putcut.c -o CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_putcut.c -o CMakeFiles/21reload.dir/src/nucleus/ft_putcut.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.o: ../src/nucleus/ft_putmemory.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_putmemory.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_putmemory.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_putmemory.c > CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_putmemory.c > CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_putmemory.c -o CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_putmemory.c -o CMakeFiles/21reload.dir/src/nucleus/ft_putmemory.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.o: ../src/nucleus/ft_read_8.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_read_8.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_read_8.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_read_8.c > CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_read_8.c > CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_read_8.c -o CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_read_8.c -o CMakeFiles/21reload.dir/src/nucleus/ft_read_8.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.o: ../src/nucleus/ft_realloc_buff.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_realloc_buff.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_realloc_buff.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_realloc_buff.c > CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_realloc_buff.c > CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_realloc_buff.c -o CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_realloc_buff.c -o CMakeFiles/21reload.dir/src/nucleus/ft_realloc_buff.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.o: ../src/nucleus/ft_realloc_tab.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_realloc_tab.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_realloc_tab.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_realloc_tab.c > CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_realloc_tab.c > CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_realloc_tab.c -o CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_realloc_tab.c -o CMakeFiles/21reload.dir/src/nucleus/ft_realloc_tab.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.o: ../src/nucleus/ft_setcursor.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_setcursor.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_setcursor.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_setcursor.c > CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_setcursor.c > CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_setcursor.c -o CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_setcursor.c -o CMakeFiles/21reload.dir/src/nucleus/ft_setcursor.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.o: ../src/nucleus/ft_start_read.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_start_read.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_start_read.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_start_read.c > CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_start_read.c > CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_start_read.c -o CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_start_read.c -o CMakeFiles/21reload.dir/src/nucleus/ft_start_read.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.o: ../src/nucleus/ft_strsplit1.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_strsplit1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_strsplit1.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_strsplit1.c > CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_strsplit1.c > CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_strsplit1.c -o CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_strsplit1.c -o CMakeFiles/21reload.dir/src/nucleus/ft_strsplit1.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.o: ../src/nucleus/ft_upcursor.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.o   -c /Users/plettie/Desktop/211/src/nucleus/ft_upcursor.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building C object CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/ft_upcursor.c
 
 CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/ft_upcursor.c > CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/ft_upcursor.c > CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/ft_upcursor.c -o CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/ft_upcursor.c -o CMakeFiles/21reload.dir/src/nucleus/ft_upcursor.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/input_mode.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/input_mode.c.o: ../src/nucleus/input_mode.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building C object CMakeFiles/21reload.dir/src/nucleus/input_mode.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/input_mode.c.o   -c /Users/plettie/Desktop/211/src/nucleus/input_mode.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building C object CMakeFiles/21reload.dir/src/nucleus/input_mode.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/input_mode.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/input_mode.c
 
 CMakeFiles/21reload.dir/src/nucleus/input_mode.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/input_mode.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/input_mode.c > CMakeFiles/21reload.dir/src/nucleus/input_mode.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/input_mode.c > CMakeFiles/21reload.dir/src/nucleus/input_mode.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/input_mode.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/input_mode.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/input_mode.c -o CMakeFiles/21reload.dir/src/nucleus/input_mode.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/input_mode.c -o CMakeFiles/21reload.dir/src/nucleus/input_mode.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/show_history.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/show_history.c.o: ../src/nucleus/show_history.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building C object CMakeFiles/21reload.dir/src/nucleus/show_history.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/show_history.c.o   -c /Users/plettie/Desktop/211/src/nucleus/show_history.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building C object CMakeFiles/21reload.dir/src/nucleus/show_history.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/show_history.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/show_history.c
 
 CMakeFiles/21reload.dir/src/nucleus/show_history.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/show_history.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/show_history.c > CMakeFiles/21reload.dir/src/nucleus/show_history.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/show_history.c > CMakeFiles/21reload.dir/src/nucleus/show_history.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/show_history.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/show_history.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/show_history.c -o CMakeFiles/21reload.dir/src/nucleus/show_history.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/show_history.c -o CMakeFiles/21reload.dir/src/nucleus/show_history.c.s
 
 CMakeFiles/21reload.dir/src/nucleus/tab.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/nucleus/tab.c.o: ../src/nucleus/tab.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building C object CMakeFiles/21reload.dir/src/nucleus/tab.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/tab.c.o   -c /Users/plettie/Desktop/211/src/nucleus/tab.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building C object CMakeFiles/21reload.dir/src/nucleus/tab.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/nucleus/tab.c.o   -c /Users/wstygg/Desktop/21sh/src/nucleus/tab.c
 
 CMakeFiles/21reload.dir/src/nucleus/tab.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/nucleus/tab.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/nucleus/tab.c > CMakeFiles/21reload.dir/src/nucleus/tab.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/nucleus/tab.c > CMakeFiles/21reload.dir/src/nucleus/tab.c.i
 
 CMakeFiles/21reload.dir/src/nucleus/tab.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/nucleus/tab.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/nucleus/tab.c -o CMakeFiles/21reload.dir/src/nucleus/tab.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/nucleus/tab.c -o CMakeFiles/21reload.dir/src/nucleus/tab.c.s
 
 CMakeFiles/21reload.dir/src/parser/change_tilda.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/parser/change_tilda.c.o: ../src/parser/change_tilda.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building C object CMakeFiles/21reload.dir/src/parser/change_tilda.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/parser/change_tilda.c.o   -c /Users/plettie/Desktop/211/src/parser/change_tilda.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building C object CMakeFiles/21reload.dir/src/parser/change_tilda.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/parser/change_tilda.c.o   -c /Users/wstygg/Desktop/21sh/src/parser/change_tilda.c
 
 CMakeFiles/21reload.dir/src/parser/change_tilda.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/parser/change_tilda.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/parser/change_tilda.c > CMakeFiles/21reload.dir/src/parser/change_tilda.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/parser/change_tilda.c > CMakeFiles/21reload.dir/src/parser/change_tilda.c.i
 
 CMakeFiles/21reload.dir/src/parser/change_tilda.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/parser/change_tilda.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/parser/change_tilda.c -o CMakeFiles/21reload.dir/src/parser/change_tilda.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/parser/change_tilda.c -o CMakeFiles/21reload.dir/src/parser/change_tilda.c.s
 
 CMakeFiles/21reload.dir/src/parser/dop_parser.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/parser/dop_parser.c.o: ../src/parser/dop_parser.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building C object CMakeFiles/21reload.dir/src/parser/dop_parser.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/parser/dop_parser.c.o   -c /Users/plettie/Desktop/211/src/parser/dop_parser.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building C object CMakeFiles/21reload.dir/src/parser/dop_parser.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/parser/dop_parser.c.o   -c /Users/wstygg/Desktop/21sh/src/parser/dop_parser.c
 
 CMakeFiles/21reload.dir/src/parser/dop_parser.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/parser/dop_parser.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/parser/dop_parser.c > CMakeFiles/21reload.dir/src/parser/dop_parser.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/parser/dop_parser.c > CMakeFiles/21reload.dir/src/parser/dop_parser.c.i
 
 CMakeFiles/21reload.dir/src/parser/dop_parser.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/parser/dop_parser.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/parser/dop_parser.c -o CMakeFiles/21reload.dir/src/parser/dop_parser.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/parser/dop_parser.c -o CMakeFiles/21reload.dir/src/parser/dop_parser.c.s
 
 CMakeFiles/21reload.dir/src/parser/main_parser.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/parser/main_parser.c.o: ../src/parser/main_parser.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building C object CMakeFiles/21reload.dir/src/parser/main_parser.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/parser/main_parser.c.o   -c /Users/plettie/Desktop/211/src/parser/main_parser.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building C object CMakeFiles/21reload.dir/src/parser/main_parser.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/parser/main_parser.c.o   -c /Users/wstygg/Desktop/21sh/src/parser/main_parser.c
 
 CMakeFiles/21reload.dir/src/parser/main_parser.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/parser/main_parser.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/parser/main_parser.c > CMakeFiles/21reload.dir/src/parser/main_parser.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/parser/main_parser.c > CMakeFiles/21reload.dir/src/parser/main_parser.c.i
 
 CMakeFiles/21reload.dir/src/parser/main_parser.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/parser/main_parser.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/parser/main_parser.c -o CMakeFiles/21reload.dir/src/parser/main_parser.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/parser/main_parser.c -o CMakeFiles/21reload.dir/src/parser/main_parser.c.s
 
 CMakeFiles/21reload.dir/src/check_file.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/check_file.c.o: ../src/check_file.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building C object CMakeFiles/21reload.dir/src/check_file.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/check_file.c.o   -c /Users/plettie/Desktop/211/src/check_file.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building C object CMakeFiles/21reload.dir/src/check_file.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/check_file.c.o   -c /Users/wstygg/Desktop/21sh/src/check_file.c
 
 CMakeFiles/21reload.dir/src/check_file.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/check_file.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/check_file.c > CMakeFiles/21reload.dir/src/check_file.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/check_file.c > CMakeFiles/21reload.dir/src/check_file.c.i
 
 CMakeFiles/21reload.dir/src/check_file.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/check_file.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/check_file.c -o CMakeFiles/21reload.dir/src/check_file.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/check_file.c -o CMakeFiles/21reload.dir/src/check_file.c.s
 
 CMakeFiles/21reload.dir/src/ft_distruct.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/ft_distruct.c.o: ../src/ft_distruct.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building C object CMakeFiles/21reload.dir/src/ft_distruct.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/ft_distruct.c.o   -c /Users/plettie/Desktop/211/src/ft_distruct.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building C object CMakeFiles/21reload.dir/src/ft_distruct.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/ft_distruct.c.o   -c /Users/wstygg/Desktop/21sh/src/ft_distruct.c
 
 CMakeFiles/21reload.dir/src/ft_distruct.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/ft_distruct.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/ft_distruct.c > CMakeFiles/21reload.dir/src/ft_distruct.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/ft_distruct.c > CMakeFiles/21reload.dir/src/ft_distruct.c.i
 
 CMakeFiles/21reload.dir/src/ft_distruct.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/ft_distruct.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/ft_distruct.c -o CMakeFiles/21reload.dir/src/ft_distruct.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/ft_distruct.c -o CMakeFiles/21reload.dir/src/ft_distruct.c.s
 
 CMakeFiles/21reload.dir/src/ft_error_q.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/ft_error_q.c.o: ../src/ft_error_q.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building C object CMakeFiles/21reload.dir/src/ft_error_q.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/ft_error_q.c.o   -c /Users/plettie/Desktop/211/src/ft_error_q.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building C object CMakeFiles/21reload.dir/src/ft_error_q.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/ft_error_q.c.o   -c /Users/wstygg/Desktop/21sh/src/ft_error_q.c
 
 CMakeFiles/21reload.dir/src/ft_error_q.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/ft_error_q.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/ft_error_q.c > CMakeFiles/21reload.dir/src/ft_error_q.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/ft_error_q.c > CMakeFiles/21reload.dir/src/ft_error_q.c.i
 
 CMakeFiles/21reload.dir/src/ft_error_q.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/ft_error_q.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/ft_error_q.c -o CMakeFiles/21reload.dir/src/ft_error_q.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/ft_error_q.c -o CMakeFiles/21reload.dir/src/ft_error_q.c.s
 
 CMakeFiles/21reload.dir/src/ft_signal.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/ft_signal.c.o: ../src/ft_signal.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building C object CMakeFiles/21reload.dir/src/ft_signal.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/ft_signal.c.o   -c /Users/plettie/Desktop/211/src/ft_signal.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building C object CMakeFiles/21reload.dir/src/ft_signal.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/ft_signal.c.o   -c /Users/wstygg/Desktop/21sh/src/ft_signal.c
 
 CMakeFiles/21reload.dir/src/ft_signal.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/ft_signal.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/ft_signal.c > CMakeFiles/21reload.dir/src/ft_signal.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/ft_signal.c > CMakeFiles/21reload.dir/src/ft_signal.c.i
 
 CMakeFiles/21reload.dir/src/ft_signal.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/ft_signal.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/ft_signal.c -o CMakeFiles/21reload.dir/src/ft_signal.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/ft_signal.c -o CMakeFiles/21reload.dir/src/ft_signal.c.s
 
 CMakeFiles/21reload.dir/src/ft_take_arg.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/ft_take_arg.c.o: ../src/ft_take_arg.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building C object CMakeFiles/21reload.dir/src/ft_take_arg.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/ft_take_arg.c.o   -c /Users/plettie/Desktop/211/src/ft_take_arg.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building C object CMakeFiles/21reload.dir/src/ft_take_arg.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/ft_take_arg.c.o   -c /Users/wstygg/Desktop/21sh/src/ft_take_arg.c
 
 CMakeFiles/21reload.dir/src/ft_take_arg.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/ft_take_arg.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/ft_take_arg.c > CMakeFiles/21reload.dir/src/ft_take_arg.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/ft_take_arg.c > CMakeFiles/21reload.dir/src/ft_take_arg.c.i
 
 CMakeFiles/21reload.dir/src/ft_take_arg.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/ft_take_arg.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/ft_take_arg.c -o CMakeFiles/21reload.dir/src/ft_take_arg.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/ft_take_arg.c -o CMakeFiles/21reload.dir/src/ft_take_arg.c.s
 
 CMakeFiles/21reload.dir/src/main.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/main.c.o: ../src/main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building C object CMakeFiles/21reload.dir/src/main.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/main.c.o   -c /Users/plettie/Desktop/211/src/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building C object CMakeFiles/21reload.dir/src/main.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/main.c.o   -c /Users/wstygg/Desktop/21sh/src/main.c
 
 CMakeFiles/21reload.dir/src/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/main.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/main.c > CMakeFiles/21reload.dir/src/main.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/main.c > CMakeFiles/21reload.dir/src/main.c.i
 
 CMakeFiles/21reload.dir/src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/main.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/main.c -o CMakeFiles/21reload.dir/src/main.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/main.c -o CMakeFiles/21reload.dir/src/main.c.s
 
 CMakeFiles/21reload.dir/src/shell_lvl.c.o: CMakeFiles/21reload.dir/flags.make
 CMakeFiles/21reload.dir/src/shell_lvl.c.o: ../src/shell_lvl.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building C object CMakeFiles/21reload.dir/src/shell_lvl.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/shell_lvl.c.o   -c /Users/plettie/Desktop/211/src/shell_lvl.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building C object CMakeFiles/21reload.dir/src/shell_lvl.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/21reload.dir/src/shell_lvl.c.o   -c /Users/wstygg/Desktop/21sh/src/shell_lvl.c
 
 CMakeFiles/21reload.dir/src/shell_lvl.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/21reload.dir/src/shell_lvl.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/plettie/Desktop/211/src/shell_lvl.c > CMakeFiles/21reload.dir/src/shell_lvl.c.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wstygg/Desktop/21sh/src/shell_lvl.c > CMakeFiles/21reload.dir/src/shell_lvl.c.i
 
 CMakeFiles/21reload.dir/src/shell_lvl.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/21reload.dir/src/shell_lvl.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/plettie/Desktop/211/src/shell_lvl.c -o CMakeFiles/21reload.dir/src/shell_lvl.c.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wstygg/Desktop/21sh/src/shell_lvl.c -o CMakeFiles/21reload.dir/src/shell_lvl.c.s
 
 # Object files for target 21reload
 21reload_OBJECTS = \
@@ -2525,7 +2525,7 @@ CMakeFiles/21reload.dir/src/shell_lvl.c.s: cmake_force
 21reload: CMakeFiles/21reload.dir/src/shell_lvl.c.o
 21reload: CMakeFiles/21reload.dir/build.make
 21reload: CMakeFiles/21reload.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Linking C executable 21reload"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Linking C executable 21reload"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/21reload.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -2538,6 +2538,6 @@ CMakeFiles/21reload.dir/clean:
 .PHONY : CMakeFiles/21reload.dir/clean
 
 CMakeFiles/21reload.dir/depend:
-	cd /Users/plettie/Desktop/211/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/plettie/Desktop/211 /Users/plettie/Desktop/211 /Users/plettie/Desktop/211/cmake-build-debug /Users/plettie/Desktop/211/cmake-build-debug /Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles/21reload.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/wstygg/Desktop/21sh/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/wstygg/Desktop/21sh /Users/wstygg/Desktop/21sh /Users/wstygg/Desktop/21sh/cmake-build-debug /Users/wstygg/Desktop/21sh/cmake-build-debug /Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles/21reload.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/21reload.dir/depend
 

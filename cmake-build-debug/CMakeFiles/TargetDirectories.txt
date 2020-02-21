@@ -1,3 +1,3 @@
-/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/plettie/Desktop/211/cmake-build-debug/CMakeFiles/21reload.dir
+/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wstygg/Desktop/21sh/cmake-build-debug/CMakeFiles/21reload.dir

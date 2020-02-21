@@ -83,7 +83,6 @@ int		main_cycle(t_readline *p, t_memory **head, t_exectoken **start_token)
 
 	headin = *head;
 	set_input_mode();
-	atexit(reset_input_mode);
 	ft_start_read(p);
 	ft_read_8(p, headin, 0);
 	write(2, "\n", 1);
@@ -107,7 +106,8 @@ int		main(int argc, char **argv, char **env)
 	t_exectoken	*start_token;
 
 	g_his_d = 0;
-	argv[0] = NULL;
+	ft_bzero(&p, sizeof(t_readline));
+	p.mod = 5;
 	start_token = NULL;
 	ft_global_env(env, argc);
 	signal(SIGINT, ft_fork_signal);
@@ -115,7 +115,7 @@ int		main(int argc, char **argv, char **env)
 	do_count_shell_lvl();
 	hash_init();
 	ft_put_info();
-	while (1)
+	while (argv)
 		if (main_cycle(&p, &head, &start_token) == -1)
 			break ;
 	save_history(head);
@@ -123,6 +123,7 @@ int		main(int argc, char **argv, char **env)
 	free(g_cp);
 	ft_arrdel(g_env);
 	del_readline(&p);
+	reset_input_mode();
 	return (ft_distruct_memory(head->next) &&
 		ft_distruct_tree(start_token) ? 0 : 1);
 }

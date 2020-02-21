@@ -8,44 +8,44 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/plettie/Desktop/211/cmake-build-debug"/>
+				<Option working_dir="/Users/wstygg/Desktop/21sh/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/plettie/Desktop/211/cmake-build-debug"/>
+				<Option working_dir="/Users/wstygg/Desktop/21sh/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/plettie/Desktop/211/cmake-build-debug"/>
+				<Option working_dir="/Users/wstygg/Desktop/21sh/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="21reload">
-				<Option output="/Users/plettie/Desktop/211/cmake-build-debug/21reload" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/plettie/Desktop/211/cmake-build-debug"/>
+				<Option output="/Users/wstygg/Desktop/21sh/cmake-build-debug/21reload" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wstygg/Desktop/21sh/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/plettie/Desktop/211/inc"/>
-					<Add directory="/Users/plettie/Desktop/211/libft"/>
+					<Add directory="/Users/wstygg/Desktop/21sh/inc"/>
+					<Add directory="/Users/wstygg/Desktop/21sh/libft"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
@@ -54,21 +54,21 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 21reload"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 21reload"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="21reload/fast">
-				<Option output="/Users/plettie/Desktop/211/cmake-build-debug/21reload" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/plettie/Desktop/211/cmake-build-debug"/>
+				<Option output="/Users/wstygg/Desktop/21sh/cmake-build-debug/21reload" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wstygg/Desktop/21sh/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/plettie/Desktop/211/inc"/>
-					<Add directory="/Users/plettie/Desktop/211/libft"/>
+					<Add directory="/Users/wstygg/Desktop/21sh/inc"/>
+					<Add directory="/Users/wstygg/Desktop/21sh/libft"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
@@ -77,527 +77,527 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 21reload/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/plettie/Desktop/211/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 21reload/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wstygg/Desktop/21sh/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/plettie/Desktop/211/inc/fshell.h">
+		<Unit filename="/Users/wstygg/Desktop/21sh/inc/fshell.h">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/inc/hash.h">
+		<Unit filename="/Users/wstygg/Desktop/21sh/inc/hash.h">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/inc/nucleus.h">
+		<Unit filename="/Users/wstygg/Desktop/21sh/inc/nucleus.h">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/inc/parser.h">
+		<Unit filename="/Users/wstygg/Desktop/21sh/inc/parser.h">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/inc/struct.h">
+		<Unit filename="/Users/wstygg/Desktop/21sh/inc/struct.h">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_atoi.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_atoi.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_bzero.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_bzero.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_count.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_count.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_count_whtsp_end.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_count_whtsp_end.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_count_whtsp_start.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_count_whtsp_start.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_count_words.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_count_words.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_exponentiation.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_exponentiation.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_free_str.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_free_str.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_isalnum.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_isalnum.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_isalpha.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_isalpha.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_isascii.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_isascii.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_isdelim.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_isdelim.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_isdigit.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_isdigit.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_islower.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_islower.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_isprint.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_isprint.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_isupper.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_isupper.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_itoa.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_itoa.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_itoa_base.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_itoa_base.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_labs.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_labs.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_list_clear.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_list_clear.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_list_foreach.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_list_foreach.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_list_reverse.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_list_reverse.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_lstadd.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_lstadd.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_lstdel.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_lstdel.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_lstdelone.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_lstdelone.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_lstiter.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_lstiter.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_lstmap.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_lstmap.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_lstnew.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_lstnew.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_memalloc.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_memalloc.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_memccpy.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_memccpy.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_memchr.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_memchr.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_memcmp.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_memcmp.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_memcpy.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_memcpy.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_memdel.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_memdel.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_memmove.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_memmove.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_memset.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_memset.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_nbrlen.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_nbrlen.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_printf.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_printf.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_putchar.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_putchar.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_putchar_fd.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_putchar_fd.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_putendl.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_putendl.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_putendl_fd.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_putendl_fd.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_putnbr.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_putnbr.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_putnbr_fd.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_putnbr_fd.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_putstr.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_putstr.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_putstr_fd.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_putstr_fd.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_realloc.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_realloc.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_sqrt.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_sqrt.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_str_is_lowercase.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_str_is_lowercase.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_str_is_numeric.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_str_is_numeric.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_str_is_printable.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_str_is_printable.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strcat.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strcat.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strchr.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strchr.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strclr.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strclr.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strcmp.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strcmp.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strcmp_start.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strcmp_start.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strcpy.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strcpy.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strdel.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strdel.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strdup.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strdup.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strequ.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strequ.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_striter.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_striter.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_striteri.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_striteri.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strjoin.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strjoin.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strjoin_cmp.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strjoin_cmp.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strjoinch.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strjoinch.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strjoinch_i.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strjoinch_i.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strlcat.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strlcat.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strlen.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strlen.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strmap.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strmap.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strmapi.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strmapi.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strncat.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strncat.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strncmp.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strncmp.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strncpy.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strncpy.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strndup.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strndup.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strnequ.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strnequ.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strnew.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strnew.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strnstr.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strnstr.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strrchr.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strrchr.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strsep.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strsep.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strsplit.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strsplit.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strstr.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strstr.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strsub.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strsub.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_strtrim.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_strtrim.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_swap.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_swap.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_tolower.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_tolower.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_toupper.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_toupper.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/ft_word_size.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/ft_word_size.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/get_next_line.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/get_next_line.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/get_next_line.h">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/get_next_line.h">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/get_next_line_with_sym.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/get_next_line_with_sym.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/libft/libft.h">
+		<Unit filename="/Users/wstygg/Desktop/21sh/libft/libft.h">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/builtins/allenv/ft_env.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/builtins/allenv/ft_env.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/builtins/allenv/global_env.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/builtins/allenv/global_env.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/builtins/allenv/main_env.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/builtins/allenv/main_env.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/builtins/ft_cd.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/builtins/ft_cd.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/builtins/ft_cd_2.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/builtins/ft_cd_2.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/builtins/ft_cd_3.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/builtins/ft_cd_3.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/builtins/ft_echo.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/builtins/ft_echo.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/builtins/ft_echo2.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/builtins/ft_echo2.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/check_file.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/check_file.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/errors/errror_handler.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/errors/errror_handler.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/exec/ft_create_file.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/exec/ft_create_file.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/exec/ft_do_pipe.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/exec/ft_do_pipe.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/exec/ft_fun_fork.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/exec/ft_fun_fork.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/ft_distruct.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/ft_distruct.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/ft_error_q.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/ft_error_q.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/ft_signal.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/ft_signal.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/ft_take_arg.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/ft_take_arg.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/hash/hash_error.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/hash/hash_error.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/hash/hash_table.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/hash/hash_table.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/hash/hash_table_2.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/hash/hash_table_2.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/all_bax_and_hist_change.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/all_bax_and_hist_change.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/change_dol.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/change_dol.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/change_hist_exp.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/change_hist_exp.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/change_spaces.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/change_spaces.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/change_str_by_str.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/change_str_by_str.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/cr_and_add_tokens.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/cr_and_add_tokens.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/dop_funs.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/dop_funs.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/get_opt_type.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/get_opt_type.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/history_search.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/history_search.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/kill_dop_structure.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/kill_dop_structure.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/lexer.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/lexer.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/lexer/word_sizes.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/lexer/word_sizes.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/main.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/main.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/del_readline.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/del_readline.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/do_add.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/do_add.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/dop_tab_funs.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/dop_tab_funs.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/find_history.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/find_history.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_add_intput_que.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_add_intput_que.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_add_sumchar.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_add_sumchar.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_arrdel.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_arrdel.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_arrnew.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_arrnew.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_arrows.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_arrows.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_back_slovo.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_back_slovo.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_c.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_c.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_cheak_quote.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_cheak_quote.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_cleanstr.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_cleanstr.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_cut.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_cut.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_cut_copy.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_cut_copy.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_do_copy.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_do_copy.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_do_delch.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_do_delch.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_do_leftright.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_do_leftright.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_dop_history.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_dop_history.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_downcursor.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_downcursor.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_head_memory.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_head_memory.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_memory.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_memory.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_next_slovo.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_next_slovo.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_print_tab.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_print_tab.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_printf_helper.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_printf_helper.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_put_n.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_put_n.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_putcut.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_putcut.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_putmemory.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_putmemory.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_read_8.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_read_8.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_realloc_buff.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_realloc_buff.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_realloc_tab.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_realloc_tab.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_setcursor.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_setcursor.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_start_read.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_start_read.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_strsplit1.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_strsplit1.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/ft_upcursor.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/ft_upcursor.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/input_mode.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/input_mode.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/show_history.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/show_history.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/nucleus/tab.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/nucleus/tab.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/parser/change_tilda.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/parser/change_tilda.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/parser/dop_parser.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/parser/dop_parser.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/parser/main_parser.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/parser/main_parser.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/src/shell_lvl.c">
+		<Unit filename="/Users/wstygg/Desktop/21sh/src/shell_lvl.c">
 			<Option target="21reload"/>
 		</Unit>
-		<Unit filename="/Users/plettie/Desktop/211/CMakeLists.txt">
+		<Unit filename="/Users/wstygg/Desktop/21sh/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
