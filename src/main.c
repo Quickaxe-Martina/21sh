@@ -12,7 +12,22 @@
 
 #include "../inc/fshell.h"
 
-void	ft_whatis(t_exectoken *tmp, t_memory *q)
+int		ft_whatis2(t_exectoken *tmp)
+{
+	if (ft_strcmp(tmp->file_args[0], "cd") == 0)
+		ft_cd(tmp->file_args);
+	else if (ft_strcmp(tmp->file_args[0], "setenv") == 0)
+		ft_do_export(tmp->file_args);
+	else if (ft_strcmp(tmp->file_args[0], "unsetenv") == 0 &&
+			 tmp->file_args[1] != NULL)
+		unset_var(tmp->file_args[1], &g_env);
+	else
+		return (0);
+	return (1);
+
+}
+
+int		ft_whatis(t_exectoken *tmp, t_memory *q)
 {
 	if (ft_strcmp(tmp->file_args[0], "echo") == 0)
 		ft_echo(tmp->file_args);
@@ -32,7 +47,9 @@ void	ft_whatis(t_exectoken *tmp, t_memory *q)
 	else if (ft_strcmp(tmp->file_args[0], "hash") == 0)
 		print_hash();
 	else
-		ft_infinit_pipe(tmp);
+		return (0);
+	return (1);
+
 }
 
 void	print_hash(void)
@@ -71,7 +88,8 @@ int		ft_main_what(t_exectoken *tmp, t_memory *q)
 		if (ft_strcmp(tmp->file_args[0], "exit") == 0)
 			return (-1);
 		do_zam_str_with_tilda(tmp->file_args);
-		ft_whatis(tmp, q);
+		ft_infinit_pipe(tmp, q);
+		//ft_whatis(tmp, q);
 		tmp = tmp->right;
 	}
 	return (1);

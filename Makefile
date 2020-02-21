@@ -53,6 +53,7 @@ SRC_BASE = builtins/ft_cd.c\
 	nucleus/ft_read_8.c\
 	nucleus/ft_c.c\
 	nucleus/input_mode.c\
+	g_builtins.c\
 	nucleus/do_add.c\
 	nucleus/ft_realloc_buff.c\
 	nucleus/ft_cleanstr.c\

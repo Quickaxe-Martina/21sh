@@ -36,6 +36,7 @@ int		ft_norm_pipe(int p1, int *fd_in, int p0, t_exectoken **head)
 	}
 	else if (p1 == -404 && head == NULL)
 	{
+		//dprintf(2, "|%d|", *fd_in);
 		dup2(*fd_in, 0);
 		close(p0);
 	}

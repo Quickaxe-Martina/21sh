@@ -58,6 +58,7 @@
 
 char			**g_env;
 char			*g_cp;
+extern const char	*g_builtins[10];
 int				g_his_d;
 
 void			ft_realloc_all(int k, char ***envl);
@@ -67,6 +68,7 @@ char			*distribute_echo(char **str, int k, int flag, t_builtins *echo);
 char			*ft_hex(char *str);
 int				set_new_var(char *str1, char *str2, char ***envl);
 
+int		ft_whatis2(t_exectoken *tmp);
 int				ft_cd(char **str);
 int				change_path(char *path, t_builtins *cd);
 char			*create_full_path(char *path, t_builtins *cd);
@@ -86,8 +88,8 @@ void			ft_global_dir(int flag, char *str);
 int				ft_signal(int signo, t_readline *p);
 void			ft_fork_signal(int signo);
 int				ft_main_what(t_exectoken *tmp, t_memory *q);
-void			ft_whatis(t_exectoken *tmp, t_memory *q);
-void			ft_infinit_pipe(t_exectoken *head);
+int		ft_whatis(t_exectoken *tmp, t_memory *q);
+void			ft_infinit_pipe(t_exectoken *head, t_memory *q);
 int				ft_distruct_tree(t_exectoken *q);
 int				ft_distr_lex(t_lextoken	*tmp);
 int				ft_distruct_memory(t_memory	*head);

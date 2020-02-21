@@ -85,6 +85,7 @@ int		ft_heredoc(char *tmp)
 int		ft_fd_flag(char **av, int *fd_in)
 {
 	t_pipe	p;
+	int fd;
 
 	p = (t_pipe){0, -1, 1, 0, 0, 0};
 	while (av[++(p.i)])
@@ -96,6 +97,7 @@ int		ft_fd_flag(char **av, int *fd_in)
 		else if (p.b == 1 && p.flag != 0)
 		{
 			ft_open_flag(av[p.i], &(p.flag), &fd_in, &p.fd);
+			fd = p.fd;
 			if (p.flag == 1 || p.flag == 2)
 				dup2(p.fd, p.st);
 			else if (p.flag == 6)
@@ -108,24 +110,73 @@ int		ft_fd_flag(char **av, int *fd_in)
 			p = (t_pipe){0, p.i, 1, p.fd, 0, p.j};
 		}
 	}
-	return (p.fd);
+	return (fd);
 }
 
-void	ft_infinit_pipe(t_exectoken *head)
+int		is_builtin(char *str)
+{
+	int i;
+
+	i = 0;
+	while (i < 9)
+	{
+		if (ft_strcmp(g_builtins[i], str) == 0)
+			return (1);
+		i++;
+	}
+	return (0);
+}
+
+void	ft_infinit_pipe(t_exectoken *head, t_memory *q)
 {
 	int			p[2];
+	//int			myp[2];
 	pid_t		pid;
 	int			fd_in;
 	char		*rt;
+	int dop;
 
 	fd_in = 0;
+	dop = 0;
 	ft_file_create(head);
+	q = NULL;
+
 	while (head)
 	{
-		rt = hash_get(head->file_args[0]);
-		if (pipe(p) == -1 || (pid = fork()) == -1)
+//		dop = 0;
+//		dprintf(2, "lol1: |%d|, |%d|\n", p[0], p[1]);
+//
+		if (pipe(p) == -1)
+			exit(0);
+//		dprintf(2, "lol2: |%d|, |%d|\n", p[0], p[1]);
+
+//		dprintf(2, "lol3: |%d|, |%d|\n", p[0], p[1]);
+//
+		dop = 0;
+
+		ft_whatis2(head);
+		if (is_builtin(head->file_args[0]) == 0)
+			rt = hash_get(head->file_args[0]);
+		if ((pid = fork()) == -1)
 			exit(1);
-		else if (pid == 0)
+		if (is_builtin(head->file_args[0]) && head->left == NULL)
+		{
+			if (pid == 0)
+			{
+				if (head->file_opt)
+					dop = ft_fd_flag(head->file_opt, &fd_in);
+				ft_whatis(head, q);
+				//dprintf(2, "lol3: |%d|,  |%d|\n", p[0], p[1]);
+				exit(0);
+			}
+			else
+			{
+				wait(NULL);
+				break ;
+			}
+
+		}
+		if (pid == 0)
 		{
 			if (head->left != NULL)
 				ft_norm_pipe(p[1], &fd_in, -404, NULL);

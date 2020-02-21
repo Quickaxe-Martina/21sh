@@ -176,5 +176,6 @@ add_executable(21reload
         src/ft_error_q.c
         src/ft_signal.c
         src/ft_take_arg.c
+        src/g_builtins.c
         src/main.c
         src/shell_lvl.c)
